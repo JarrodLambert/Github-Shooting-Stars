@@ -1,0 +1,3 @@
+[console_scripts]
+starred=starred.starred:starred
+

@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/Users/jarrodlambert/Desktop/My Projects/Coding/Python/Github(Shooting)Stars/.venv/bin/python3.12" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from gql.cli import gql_cli
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(gql_cli())
