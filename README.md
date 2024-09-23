@@ -163,6 +163,7 @@
 
 ## Kotlin 
 
+- [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [B1ays/BHub](https://github.com/B1ays/BHub) - Download, Install and Share mods easily
 - [Shingyx/BoomSwitch](https://github.com/Shingyx/BoomSwitch) - Switch on/off your UE BOOM Bluetooth speaker from your Android device
 - [ahuamana/SecurityApps](https://github.com/ahuamana/SecurityApps) - 🔒 Advanced Android Security Techniques: Root, VPN, Proxy, Emulator Blocking. Strengthen your app's defenses with our comprehensive security features. Protect against vulnerabilities and safeguard user
