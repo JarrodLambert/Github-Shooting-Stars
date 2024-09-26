@@ -409,7 +409,7 @@
 - [galeone/fitsleepinsights](https://github.com/galeone/fitsleepinsights) - Custom dashboard for Fitbit users. RAG support (gemini-based) for chatting with your data and getting insights about your fitness activities and sleep data
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## golang 
 
@@ -419,7 +419,7 @@
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## hacking 
 
@@ -436,6 +436,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
 - [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - Universal  Add-On for Stremio & Kodi
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -523,7 +524,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 
@@ -691,7 +692,6 @@
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [diessica/awesome-sketch](https://github.com/diessica/awesome-sketch) - :books: delightful stuff for SketchApp students.
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-- [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
 - [dianlight/hassio-addons](https://github.com/dianlight/hassio-addons) - Hassio.io
 - [lordgiotto/google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine. Both CLI and API available.
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
