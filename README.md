@@ -22,6 +22,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Objective-C](#objective-c)
@@ -29,6 +30,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -106,6 +108,7 @@
 
 ## HTML 
 
+- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 - [kmille/freetar](https://github.com/kmille/freetar) - freetar  - an alternative frontend to ultimate-guitar.com
@@ -175,6 +178,10 @@
 - [Gaurav-Punjabi/app-blocker](https://github.com/Gaurav-Punjabi/app-blocker) - This is a android based application that is used to block the given applications for the given time making us distraction free
 - [nurdinm/Iseng](https://github.com/nurdinm/Iseng) - Auto Swipe Up when blinking eyes - Used for scrolling tiktok, reels or youtube short when rebahan
 
+## MDX 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## Makefile 
 
 - [mt8695/android_device_amazon_sheldon](https://github.com/mt8695/android_device_amazon_sheldon) - 
@@ -190,6 +197,7 @@
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [Fitbit/ossapps](https://github.com/Fitbit/ossapps) - A non-exhaustive list of open sourced clock faces, applications and modules from the community.
@@ -230,6 +238,7 @@
 
 ## Python 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
@@ -272,6 +281,10 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [aakashadesara/notion-google-sheets-sync](https://github.com/aakashadesara/notion-google-sheets-sync) - Utility to Sync Google Sheets and Notion Collection
 
+## Ruby 
+
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
 ## Rust 
 
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -307,18 +320,20 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [sfjohnson/strawberry-store](https://github.com/sfjohnson/strawberry-store) - Fault tolerant distributed key-value store
 - [zackhanni/artist-epk](https://github.com/zackhanni/artist-epk) - A react template designed for artists to quickly create a portfolio or electronic press kit
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 - [ddycai/habitica-tracker](https://github.com/ddycai/habitica-tracker) - Tool that displays a history of your Habits, Dailies and completed Todos in Habitica like habit tracker. Check out the Github page to try it out.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-- [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [whitep4nth3r/fretonator](https://github.com/whitep4nth3r/fretonator) - The ultimate interactive free guitar theory tool.
 - [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. This is free, don't expect it to be perfect.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
