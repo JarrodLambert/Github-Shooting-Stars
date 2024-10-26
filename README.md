@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
@@ -126,6 +127,7 @@
 
 ## JavaScript 
 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [mhdzumair/jackettio](https://github.com/mhdzumair/jackettio) - Stremio addon that resolve streams using Jackett and Debrid. It seamlessly integrates with private trackers.
 - [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
@@ -247,6 +249,7 @@
 
 ## Python 
 
+- [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - The official Notion API client library, but rewritten in Python! (sync + async)
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
