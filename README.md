@@ -209,6 +209,7 @@
 
 ## Makefile 
 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
 - [mt8695/android_device_amazon_sheldon](https://github.com/mt8695/android_device_amazon_sheldon) - 
 
@@ -223,7 +224,6 @@
 
 ## Others 
 
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [srirambtechit/books](https://github.com/srirambtechit/books) - 
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -341,7 +341,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 - [ivabus/lonelyradio](https://github.com/ivabus/lonelyradio) - Lightweight Music Streamer
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
