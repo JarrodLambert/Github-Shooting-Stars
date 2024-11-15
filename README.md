@@ -48,6 +48,7 @@
 
 ## C 
 
+- [sagiadinos/garlic-player](https://github.com/sagiadinos/garlic-player) - Digital Signage Player Software based on SMIL
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
@@ -306,7 +307,7 @@
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [eni23/ueboom](https://github.com/eni23/ueboom) - 
