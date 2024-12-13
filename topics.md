@@ -516,7 +516,7 @@
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit) - A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 The Cross-Platform Pie Menu.
 
 ## emacs 
 
@@ -524,6 +524,7 @@
 
 ## embedded 
 
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [jackw01/arduino-pid-autotuner](https://github.com/jackw01/arduino-pid-autotuner) - Automated PID tuning using Ziegler-Nichols/relay method
 
@@ -776,7 +777,7 @@
 - [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit) - A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 The Cross-Platform Pie Menu.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
@@ -844,7 +845,7 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 The Cross-Platform Pie Menu.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
@@ -1459,7 +1460,7 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit) - A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 The Cross-Platform Pie Menu.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 
 ## xcode 
