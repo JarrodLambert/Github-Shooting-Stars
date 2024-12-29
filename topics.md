@@ -57,6 +57,7 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [embedded](#embedded)
+- [emulator](#emulator)
 - [ethereum](#ethereum)
 - [express](#express)
 - [finance](#finance)
@@ -178,6 +179,7 @@
 
 ## ai 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
@@ -349,6 +351,7 @@
 
 ## chatbot 
 
+- [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 
 ## chatgpt 
@@ -412,6 +415,7 @@
 
 ## cpp 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## cryptocurrency 
@@ -519,6 +523,8 @@
 
 ## electron 
 
+- [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit) - A cross platform desktop app written in Typescript/Node using React and Electron. Android-Toolkit is a GUI for adb and can be used to modify android devices such as phones, firesticks and google TVs.
@@ -533,6 +539,10 @@
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [jackw01/arduino-pid-autotuner](https://github.com/jackw01/arduino-pid-autotuner) - Automated PID tuning using Ziegler-Nichols/relay method
+
+## emulator 
+
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 
 ## ethereum 
 
@@ -770,6 +780,7 @@
 
 ## linux 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -789,6 +800,7 @@
 
 ## llm 
 
+- [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - build ai agents that have the full context, open source, runs locally, developer friendly. 24/7 screen, mic, keyboard recording and control
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
@@ -832,6 +844,7 @@
 
 ## macos 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto) - Soduto is a KDE Connect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
@@ -981,6 +994,7 @@
 
 ## openai 
 
+- [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -1469,6 +1483,7 @@
 
 ## windows 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
