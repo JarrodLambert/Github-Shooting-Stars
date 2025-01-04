@@ -244,6 +244,7 @@
 
 ## Others 
 
+- [mirecekd/atoms-for-girls](https://github.com/mirecekd/atoms-for-girls) - M5Stack Atom Echo mic and Google repros as speaker with two Home Assistant Assists
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
