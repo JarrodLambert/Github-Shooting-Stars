@@ -1028,6 +1028,7 @@
 
 ## others 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [mirecekd/atoms-for-girls](https://github.com/mirecekd/atoms-for-girls) - M5Stack Atom Echo mic and Google repros as speaker with two Home Assistant Assists
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
@@ -1290,6 +1291,7 @@
 
 ## reverse-engineering 
 
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## ruby 
