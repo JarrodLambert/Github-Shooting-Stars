@@ -245,6 +245,7 @@
 
 ## Others 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [OpenWonderLabs/SwitchBotAPI-BLE](https://github.com/OpenWonderLabs/SwitchBotAPI-BLE) - SwitchBot BLE open API
 - [OpenWonderLabs/SwitchBotAPI](https://github.com/OpenWonderLabs/SwitchBotAPI) - SwitchBot Open API Documents
 - [mirecekd/atoms-for-girls](https://github.com/mirecekd/atoms-for-girls) - M5Stack Atom Echo mic and Google repros as speaker with two Home Assistant Assists
@@ -391,7 +392,7 @@
 - [raspberrypi/pi-gen-micro](https://github.com/raspberrypi/pi-gen-micro) - A tool for building minimal Raspberry Pi OS-based operating systems, which do not contain apt or dpkg.
 - [LivingWithHippos/server-stuff](https://github.com/LivingWithHippos/server-stuff) - A collection of configuration files/scripts for my server
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
 - [galeone/download-monitor](https://github.com/galeone/download-monitor) - Monitors your download folder and organizes its contents
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
