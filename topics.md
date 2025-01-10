@@ -210,7 +210,7 @@
 ## android 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
@@ -264,8 +264,9 @@
 
 ## awesome 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
@@ -289,8 +290,9 @@
 
 ## awesome-list 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -339,12 +341,14 @@
 
 ## c 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## c-plus-plus 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 
@@ -415,6 +419,7 @@
 
 ## cpp 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
