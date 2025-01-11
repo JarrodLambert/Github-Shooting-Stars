@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [mjg59/python-broadlink](https://github.com/mjg59/python-broadlink) - Python module for controlling Broadlink RM2/3 (Pro) remote controls, A1 sensor platforms and SP2/3 smartplugs
 - [radinsky/broadlink-http-rest](https://github.com/radinsky/broadlink-http-rest) - Broadlink RM/RM2/RM Pro/RM3/BlackBean/A1 Web server with REST API (like..)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
