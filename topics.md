@@ -1042,6 +1042,8 @@
 
 ## others 
 
+- [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create text-to-speech models in any voice for rhasspy/piper.  Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi.   Rapi
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [OpenWonderLabs/SwitchBotAPI-BLE](https://github.com/OpenWonderLabs/SwitchBotAPI-BLE) - SwitchBot BLE open API
 - [OpenWonderLabs/SwitchBotAPI](https://github.com/OpenWonderLabs/SwitchBotAPI) - SwitchBot Open API Documents
 - [ThePHPGuys/broadlink](https://github.com/ThePHPGuys/broadlink) - 
