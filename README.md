@@ -153,7 +153,6 @@
 
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [alexadam/glitch-studio](https://github.com/alexadam/glitch-studio) - data bending & glitch tools
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
 - [L05/p5.touchgui](https://github.com/L05/p5.touchgui) - A multi-touch and mouse GUI Library for p5.js
@@ -403,6 +402,7 @@
 - [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create text-to-speech models in any voice for rhasspy/piper.  Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi.   Rapi
 - [raspberrypi/pi-gen-micro](https://github.com/raspberrypi/pi-gen-micro) - A tool for building minimal Raspberry Pi OS-based operating systems, which do not contain apt or dpkg.
 - [LivingWithHippos/server-stuff](https://github.com/LivingWithHippos/server-stuff) - A collection of configuration files/scripts for my server
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
