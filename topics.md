@@ -597,6 +597,7 @@
 
 ## frontend 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 
 ## game 
@@ -755,6 +756,7 @@
 
 ## javascript 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -1046,6 +1048,9 @@
 
 ## others 
 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
+- [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
+- [Xoconoch/zotifarrr](https://github.com/Xoconoch/zotifarrr) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
@@ -1477,6 +1482,7 @@
 
 ## typescript 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1512,6 +1518,7 @@
 
 ## vuejs 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -1532,6 +1539,7 @@
 
 ## website 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 
