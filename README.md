@@ -438,7 +438,7 @@
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [OpenWonderLabs/node-switchbot](https://github.com/OpenWonderLabs/node-switchbot) - The node-switchbot is a Node.js module which allows you communicate with SwitchBot Devices over BLE or OpenAPI
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
