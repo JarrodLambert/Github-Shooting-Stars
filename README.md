@@ -255,6 +255,7 @@
 
 ## Others 
 
+- [watterott/Surplus-Parts](https://github.com/watterott/Surplus-Parts) - Surplus Parts / Excess-Stock / Overstock / Überbestand von Bauteilen
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [pherreyra/ha-mobile-dashboard](https://github.com/pherreyra/ha-mobile-dashboard) - 
