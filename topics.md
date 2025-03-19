@@ -172,6 +172,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1577,6 +1578,10 @@
 ## visual-studio-code 
 
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
+
+## vpn 
+
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 
 ## vue 
 
