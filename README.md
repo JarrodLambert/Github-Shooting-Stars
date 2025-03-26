@@ -260,6 +260,7 @@
 
 ## Others 
 
+- [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [watterott/Surplus-Parts](https://github.com/watterott/Surplus-Parts) - Surplus Parts / Excess-Stock / Overstock / Überbestand von Bauteilen
