@@ -174,7 +174,7 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
@@ -260,6 +260,7 @@
 
 ## Others 
 
+- [M507/RamiGPT](https://github.com/M507/RamiGPT) - Autonomous Privilege Escalation using OpenAI
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -297,7 +298,6 @@
 - [michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) - A curated list of games that can teach you how to learn a programming language.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [enjalot/algovis](https://github.com/enjalot/algovis) - collection of projects and links about algorithm visualization
-- [lo-cafe/lo-rain-public](https://github.com/lo-cafe/lo-rain-public) - Public repo that publishes lo-rain releases
 - [Taito-Otani/MinilogueControllerM4L](https://github.com/Taito-Otani/MinilogueControllerM4L) - The Max for Live device of korg Minilogue.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [z11h/awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
