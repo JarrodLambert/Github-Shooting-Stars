@@ -158,7 +158,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 - [diyarfaraj/AppBlockr](https://github.com/diyarfaraj/AppBlockr) - A simple app blocker made for Android only. Block any apps on your phone, to focus on important work.
 - [harshalbenake/Android-Elite-Virus](https://github.com/harshalbenake/Android-Elite-Virus) - Elite is an android virus and Hellboy is an anti-virus that has features as mentioned below.  Elite Android Virus Features:-      Send sms continuously from the device to all phone contacts randomly t
