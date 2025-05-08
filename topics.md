@@ -232,6 +232,7 @@
 
 ## android 
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
@@ -740,6 +741,7 @@
 
 ## hacktoberfest 
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -833,6 +835,7 @@
 
 ## java 
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [diyarfaraj/AppBlockr](https://github.com/diyarfaraj/AppBlockr) - A simple app blocker made for Android only. Block any apps on your phone, to focus on important work.
 
@@ -862,6 +865,7 @@
 
 ## kotlin 
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
@@ -912,7 +916,7 @@
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and custom generative AI conversations. It gives you the power of LLMs without the unpredictability.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and tailored generative AI conversations. It gives you the power of LLMs without the unpredictability.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
@@ -1146,7 +1150,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and custom generative AI conversations. It gives you the power of LLMs without the unpredictability.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and tailored generative AI conversations. It gives you the power of LLMs without the unpredictability.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
@@ -1171,6 +1175,7 @@
 
 ## others 
 
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [chungbwc/TouchDesigner](https://github.com/chungbwc/TouchDesigner) - This is the research and development repository related to my teaching in the Academy of Visual Arts, HKBU, using the TouchDesigner software.
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
@@ -1367,7 +1372,7 @@
 - [girafe-ai/ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and custom generative AI conversations. It gives you the power of LLMs without the unpredictability.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and tailored generative AI conversations. It gives you the power of LLMs without the unpredictability.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
