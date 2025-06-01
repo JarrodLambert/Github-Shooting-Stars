@@ -146,6 +146,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Richard-Burns/SimpleMixer](https://github.com/Richard-Burns/SimpleMixer) - A video mixer built in TouchDesigner
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -168,6 +169,8 @@
 
 ## JavaScript 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [chapst1k/RabbitV1](https://github.com/chapst1k/RabbitV1) - Farm Animal Tracking and Breeding Project
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
@@ -344,6 +347,8 @@
 
 ## Python 
 
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -429,6 +434,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -479,6 +485,7 @@
 
 ## TypeScript 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
