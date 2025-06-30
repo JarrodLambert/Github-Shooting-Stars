@@ -891,7 +891,6 @@
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [garlic-signage/garlic-player](https://github.com/garlic-signage/garlic-player) - Digital Signage Player  (SMIL compatible)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1315,6 +1314,7 @@
 - [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - snapclient on ESP32
 - [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
 - [brunopadz/mkcert-docker](https://github.com/brunopadz/mkcert-docker) - Run mkcert from a docker container
+- [garlic-signage/garlic-player](https://github.com/garlic-signage/garlic-player) - Digital Signage Player  (SMIL compatible)
 - [ryanwa18/spotipi](https://github.com/ryanwa18/spotipi) - Displays current song's cover art on 32x32 or 64x64 led matrix
 - [codrops/AudioVisualizers](https://github.com/codrops/AudioVisualizers) - An exploration of modern, line-style sound visualization powered by p5js and its p5.sound library.
 - [alexadam/glitch-studio](https://github.com/alexadam/glitch-studio) - data bending & glitch tools
@@ -1598,7 +1598,6 @@
 ## rest-api 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [garlic-signage/garlic-player](https://github.com/garlic-signage/garlic-player) - Digital Signage Player  (SMIL compatible)
 
 ## reverse-engineering 
 
