@@ -302,6 +302,7 @@
 
 ## Others 
 
+- [sooxt98/eBook](https://github.com/sooxt98/eBook) - 
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [jareddrayton/Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources) - Various resources related to developing plugins for audio production.
 - [MikeMorenoDSP/awesome-synthesis](https://github.com/MikeMorenoDSP/awesome-synthesis) - A curated list of software for learning synthesis.
@@ -364,6 +365,7 @@
 ## PowerShell 
 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -480,7 +482,6 @@
 
 ## Shell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [raspberrypi/rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) - A tool to generate highly customised software images for Raspberry Pi devices.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create Piper text-to-speech models in any voice.  Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi.   Rapidly record c
