@@ -510,7 +510,7 @@
 
 ## Swift 
 
-- [khcrysalis/Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.
+- [khcrysalis/Feather](https://github.com/khcrysalis/Feather) - Free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto) - Soduto is a KDE Connect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
 - [yep/app-downloader](https://github.com/yep/app-downloader) - Easily search for macOS apps from the `homebrew cask` app catalog.
