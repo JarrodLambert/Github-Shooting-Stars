@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [midilab/uClock](https://github.com/midilab/uClock) - A tight BPM clock generator for Arduino and PlatformIO using hardware timer interruption. AVR, Teensy, STM32xx, ESP32 and RP2040 support
 - [ossia/score](https://github.com/ossia/score) - ossia score, an interactive sequencer for the intermedia arts
 - [VirtualDrivers/Virtual-Audio-Driver](https://github.com/VirtualDrivers/Virtual-Audio-Driver) - Add a virtual speaker and mic to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [Wasted-Audio/wstd-manglr](https://github.com/Wasted-Audio/wstd-manglr) - Modular distortion plugin
@@ -308,6 +309,7 @@
 
 ## Others 
 
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 - [sooxt98/eBook](https://github.com/sooxt98/eBook) - 
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [jareddrayton/Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources) - Various resources related to developing plugins for audio production.
