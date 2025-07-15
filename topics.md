@@ -39,6 +39,7 @@
 - [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -283,6 +284,7 @@
 
 ## arduino 
 
+- [midilab/uClock](https://github.com/midilab/uClock) - A tight BPM clock generator for Arduino and PlatformIO using hardware timer interruption. AVR, Teensy, STM32xx, ESP32 and RP2040 support
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
 - [bxparks/AceButton](https://github.com/bxparks/AceButton) - An adjustable, compact, event-driven button library for Arduino that debounces and dispatches events to a user-defined event handler.
 - [Alarm-Siren/arduino-kicad-library](https://github.com/Alarm-Siren/arduino-kicad-library) - KiCad Symbol & Footprint Library for Arduino Modules (Shields, Sockets and Tiles)
@@ -521,6 +523,10 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+
+## cybersecurity 
+
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 
 ## dart 
 
@@ -808,6 +814,7 @@
 
 ## hacktoberfest 
 
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 - [ossia/score](https://github.com/ossia/score) - ossia score, an interactive sequencer for the intermedia arts
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -1125,6 +1132,7 @@
 
 ## music 
 
+- [midilab/uClock](https://github.com/midilab/uClock) - A tight BPM clock generator for Arduino and PlatformIO using hardware timer interruption. AVR, Teensy, STM32xx, ESP32 and RP2040 support
 - [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
