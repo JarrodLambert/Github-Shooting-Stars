@@ -1335,6 +1335,7 @@
 
 ## others 
 
+- [wuestenarchitekten/zuweiser](https://github.com/wuestenarchitekten/zuweiser) - der zuweiser
 - [gwangyu-lee/TouchDesigner-X-Computer-Music](https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music) - .tox files for computer musicians
 - [yasuhirohoshino/TouchDesigner_PostEffects](https://github.com/yasuhirohoshino/TouchDesigner_PostEffects) - 
 - [darusc/Mousedroid](https://github.com/darusc/Mousedroid) - Use your android phone as a mouse & keyboard
