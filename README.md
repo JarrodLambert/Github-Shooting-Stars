@@ -110,7 +110,6 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
-- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [sensboston/SmartRemote](https://github.com/sensboston/SmartRemote) - ESP32-based IR remote with Google Home integration
@@ -189,6 +188,7 @@
 
 - [museumsvictoria/nodel](https://github.com/museumsvictoria/nodel) - A digital media control system for museums and galleries
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 - [diyarfaraj/AppBlockr](https://github.com/diyarfaraj/AppBlockr) - A simple app blocker made for Android only. Block any apps on your phone, to focus on important work.
@@ -319,6 +319,7 @@
 
 ## Others 
 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [wuestenarchitekten/zuweiser](https://github.com/wuestenarchitekten/zuweiser) - der zuweiser
 - [gwangyu-lee/TouchDesigner-X-Computer-Music](https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music) - .tox files for computer musicians
 - [yasuhirohoshino/TouchDesigner_PostEffects](https://github.com/yasuhirohoshino/TouchDesigner_PostEffects) - 
@@ -392,7 +393,6 @@
 ## PowerShell 
 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -401,6 +401,7 @@
 
 ## Python 
 
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for deve
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
@@ -498,6 +499,7 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -564,6 +566,7 @@
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
