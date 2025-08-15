@@ -320,6 +320,7 @@
 
 ## Others 
 
+- [ssmythe/learn_mandarin_chinese](https://github.com/ssmythe/learn_mandarin_chinese) - A how to guide on how I learn Mandarin Chinese.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [wuestenarchitekten/zuweiser](https://github.com/wuestenarchitekten/zuweiser) - der zuweiser
 - [gwangyu-lee/TouchDesigner-X-Computer-Music](https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music) - .tox files for computer musicians
