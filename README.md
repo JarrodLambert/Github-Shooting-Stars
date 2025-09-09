@@ -198,7 +198,7 @@
 - [museumsvictoria/nodel](https://github.com/museumsvictoria/nodel) - A digital media control system for museums and galleries
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 - [diyarfaraj/AppBlockr](https://github.com/diyarfaraj/AppBlockr) - A simple app blocker made for Android only. Block any apps on your phone, to focus on important work.
 - [harshalbenake/Android-Elite-Virus](https://github.com/harshalbenake/Android-Elite-Virus) - Elite is an android virus and Hellboy is an anti-virus that has features as mentioned below.  Elite Android Virus Features:-      Send sms continuously from the device to all phone contacts randomly t
@@ -275,7 +275,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [girafe-ai/ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
@@ -552,7 +552,7 @@
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate collection of best Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device.
 - [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
 - [galeone/download-monitor](https://github.com/galeone/download-monitor) - Monitors your download folder and organizes its contents
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
