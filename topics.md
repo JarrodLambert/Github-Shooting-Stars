@@ -1412,6 +1412,7 @@
 
 ## others 
 
+- [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - Clock/Weather station with ESP8266/ESP32
 - [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
 - [aggregate1166877/noVNC-Paste-Tool](https://github.com/aggregate1166877/noVNC-Paste-Tool) - Tool for pasting text into noVNC consoles.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
