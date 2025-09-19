@@ -1418,6 +1418,7 @@
 
 ## others 
 
+- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - 
 - [Incipiens/Adam-Home-Assistant-Snippets](https://github.com/Incipiens/Adam-Home-Assistant-Snippets) - 
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - Clock/Weather station with ESP8266/ESP32
 - [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
