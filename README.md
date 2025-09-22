@@ -29,6 +29,7 @@
 - [Markdown](#markdown)
 - [Max](#max)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -90,7 +91,7 @@
 - [Oliveriver/5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
+- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 
@@ -338,11 +339,14 @@
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
 
+## OpenSCAD 
+
+- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - 
+
 ## Others 
 
 - [ok-vj/okVJ-Shared](https://github.com/ok-vj/okVJ-Shared) - A collection of TouchDesigner components for making live-performance easier
 - [mir-lab/touchdesigner-instancing-examples](https://github.com/mir-lab/touchdesigner-instancing-examples) - 
-- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [ssmythe/learn_mandarin_chinese](https://github.com/ssmythe/learn_mandarin_chinese) - A how to guide on how I learn Mandarin Chinese.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
