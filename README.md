@@ -438,6 +438,8 @@
 
 ## Python 
 
+- [ZeroPhone/ZPUI](https://github.com/ZeroPhone/ZPUI) - Official ZeroPhone UI framework, based on pyLCI
+- [GIMPyWidgetUI/GIMPyWidgetUI-Demo](https://github.com/GIMPyWidgetUI/GIMPyWidgetUI-Demo) - 
 - [JargeZ/ntscqt](https://github.com/JargeZ/ntscqt) - AKA Line Maker 10.0 | GUI for VHS video simulator
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Incipiens/Adam-Home-Assistant-Snippets](https://github.com/Incipiens/Adam-Home-Assistant-Snippets) - 
