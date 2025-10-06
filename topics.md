@@ -1453,6 +1453,7 @@
 
 ## others 
 
+- [adafruit/Adafruit_CAD_Parts](https://github.com/adafruit/Adafruit_CAD_Parts) - CAD files for various boards, components and parts
 - [ZeroPhone/ZPUI](https://github.com/ZeroPhone/ZPUI) - Official ZeroPhone UI framework, based on pyLCI
 - [GIMPyWidgetUI/GIMPyWidgetUI-Demo](https://github.com/GIMPyWidgetUI/GIMPyWidgetUI-Demo) - 
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
