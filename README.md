@@ -37,6 +37,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SMT](#smt)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -564,6 +565,10 @@
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [jordanbaird/nushell](https://github.com/jordanbaird/nushell) - A new type of shell
+
+## SMT 
+
+- [adafruit/Adafruit_CAD_Parts](https://github.com/adafruit/Adafruit_CAD_Parts) - CAD files for various boards, components and parts
 
 ## Shell 
 
