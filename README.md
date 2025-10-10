@@ -59,6 +59,7 @@
 
 ## C 
 
+- [Bylin-code/Stradex1](https://github.com/Bylin-code/Stradex1) - 
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [big-nacho/dosage](https://github.com/big-nacho/dosage) - Real time visual saliency detection ✨
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -612,6 +613,7 @@
 
 ## TypeScript 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -627,7 +629,7 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws) - Whiteboard as an IDE, draw and code in your browser
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
