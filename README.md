@@ -441,6 +441,7 @@
 
 ## Python 
 
+- [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular flash OS for micorcontroller based in Micropython
 - [ZeroPhone/ZPUI](https://github.com/ZeroPhone/ZPUI) - Official ZeroPhone UI framework, based on pyLCI
 - [GIMPyWidgetUI/GIMPyWidgetUI-Demo](https://github.com/GIMPyWidgetUI/GIMPyWidgetUI-Demo) - 
 - [JargeZ/ntscqt](https://github.com/JargeZ/ntscqt) - AKA Line Maker 10.0 | GUI for VHS video simulator
