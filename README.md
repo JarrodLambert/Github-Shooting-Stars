@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -59,6 +60,10 @@
 
 ## C 
 
+- [TuriSc/VRRVRR](https://github.com/TuriSc/VRRVRR) - LED-flashing, haptic metronome with presets and tap tempo. Written for Raspberry Pi Pico
+- [TuriSc/Picophonica](https://github.com/TuriSc/Picophonica) - A Raspberry Pi Pico synth engine for a toy keyboard, with instrument presets and Midi out
+- [TuriSc/Pico-Sequencer-Synth](https://github.com/TuriSc/Pico-Sequencer-Synth) - A polyphonic, multitimbral DDS (Direct Digital Synthesis) library for Raspberry Pi Pico with a sequencer supporting up to 8 channels
+- [rheslip/Raspberry-Pi-Pico-Eurorack-Drum-Sample-Player](https://github.com/rheslip/Raspberry-Pi-Pico-Eurorack-Drum-Sample-Player) - Sample player based on my ESP32 drum machine
 - [Bylin-code/Stradex1](https://github.com/Bylin-code/Stradex1) - 
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [big-nacho/dosage](https://github.com/big-nacho/dosage) - Real time visual saliency detection ✨
@@ -101,6 +106,11 @@
 
 ## C++ 
 
+- [kukas/48Knobs](https://github.com/kukas/48Knobs) - PCB schematics and firmware for a custom MIDI controller. 48 rotatory potentiometers can be used to control virtual mixers or software synthesizers.
+- [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
+- [threedaymonk/footswitch](https://github.com/threedaymonk/footswitch) - A Raspberry Pi Pico MIDI USB footswitch
+- [indifferentengine/JankyTapeEcho](https://github.com/indifferentengine/JankyTapeEcho) - Janky Tape Echo
+- [TuriSc/grimmboy](https://github.com/TuriSc/grimmboy) - Arduino-controlled kids' audio player
 - [ByteWelder/Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
 - [polykit/eurorack-sequencer-software](https://github.com/polykit/eurorack-sequencer-software) - Software for an Arduino based 8-step chainable sequencer
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -218,6 +228,7 @@
 
 ## JavaScript 
 
+- [TuriSc/earboard](https://github.com/TuriSc/earboard) - An ear training tool modeled on guitar and bass fretboards
 - [aggregate1166877/noVNC-Paste-Tool](https://github.com/aggregate1166877/noVNC-Paste-Tool) - Tool for pasting text into noVNC consoles.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
@@ -303,6 +314,10 @@
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 
+## KiCad Layout 
+
+- [gligli/juno-chorus-clone](https://github.com/gligli/juno-chorus-clone) - Roland Juno-60 chorus board clone
+
 ## Kotlin 
 
 - [terrakok/WikWok](https://github.com/terrakok/WikWok) - WikWok is a beautiful and functional app that transforms your Wikipedia reading experience into an engaging, TikTok-style article feed. Learn something new with every scroll!
@@ -350,10 +365,16 @@
 
 ## OpenSCAD 
 
+- [cfinke/LEGO.scad](https://github.com/cfinke/LEGO.scad) - An OpenSCAD LEGO-compatible brick generator.
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 
 ## Others 
 
+- [polykit/microphone-preamp](https://github.com/polykit/microphone-preamp) - Schematics and PCB for a microphone preamp with phantom power
+- [tschiemer/midi-uart-adapter](https://github.com/tschiemer/midi-uart-adapter) - PCB layout for a simple MIDI (In-Through-Out) / UART - Adapter according to MIDI 1.0 Specification
+- [MightyMirko/esp32_devkit_38Pins](https://github.com/MightyMirko/esp32_devkit_38Pins) - Custom KiCad Library for ESP32 DEV KIT
+- [threedaymonk/midi-in-out-thru](https://github.com/threedaymonk/midi-in-out-thru) - 3.3V MIDI in/out/thru serial interface
+- [polykit/polykit-x-mainboard](https://github.com/polykit/polykit-x-mainboard) - Schematics and PCB layout for a mainboard for an 8 voice polyphonic synthesizer
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [ok-vj/okVJ-Shared](https://github.com/ok-vj/okVJ-Shared) - A collection of TouchDesigner components for making live-performance easier
 - [mir-lab/touchdesigner-instancing-examples](https://github.com/mir-lab/touchdesigner-instancing-examples) - 
@@ -442,6 +463,8 @@
 
 ## Python 
 
+- [tlecomte/friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.)
+- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular flash OS for micorcontroller based in Micropython
 - [ZeroPhone/ZPUI](https://github.com/ZeroPhone/ZPUI) - Official ZeroPhone UI framework, based on pyLCI
 - [GIMPyWidgetUI/GIMPyWidgetUI-Demo](https://github.com/GIMPyWidgetUI/GIMPyWidgetUI-Demo) - 
