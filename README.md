@@ -60,6 +60,7 @@
 
 ## C 
 
+- [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
 - [TuriSc/VRRVRR](https://github.com/TuriSc/VRRVRR) - LED-flashing, haptic metronome with presets and tap tempo. Written for Raspberry Pi Pico
 - [TuriSc/Picophonica](https://github.com/TuriSc/Picophonica) - A Raspberry Pi Pico synth engine for a toy keyboard, with instrument presets and Midi out
 - [TuriSc/Pico-Sequencer-Synth](https://github.com/TuriSc/Pico-Sequencer-Synth) - A polyphonic, multitimbral DDS (Direct Digital Synthesis) library for Raspberry Pi Pico with a sequencer supporting up to 8 channels
@@ -199,6 +200,7 @@
 
 ## HTML 
 
+- [TuriSc/chromelette](https://github.com/TuriSc/chromelette) - Turn a webcam feed into a mood-setting backdrop
 - [Harold-Street-Pedal-Company/HSP_Protoseed](https://github.com/Harold-Street-Pedal-Company/HSP_Protoseed) - Beginner-friendly Arduino library for quick guitar pedal prototyping on Daisy Seed (HSP v1.2). Handles audio, pots, toggles, LEDs, and footswitch events with simple, clear commands—no backend hassle—s
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) - 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -269,7 +271,7 @@
 - [jsdbroughton/google-sheet-functions](https://github.com/jsdbroughton/google-sheet-functions) - A single repository for open sharing of custom functions I have found to be useful generally.
 - [derekantrican/Google-Apps-Script-Library](https://github.com/derekantrican/Google-Apps-Script-Library) - A variety of functions/programs written for Google Apps Script and Google services
 - [ozencb/tilde-enhanced](https://github.com/ozencb/tilde-enhanced) - A minimal startpage for your browser
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [jakubito/spotify-release-list](https://github.com/jakubito/spotify-release-list) - 📅 Display list of Spotify releases from artists you follow
 - [hedwiggggg/ugrip](https://github.com/hedwiggggg/ugrip) - https://hedwiggggg.github.io/ugrip - ultimate-guitar.com - user interface & pdf generator
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
@@ -571,6 +573,7 @@
 
 ## Rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
