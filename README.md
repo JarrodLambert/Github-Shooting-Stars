@@ -60,6 +60,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
 - [TuriSc/VRRVRR](https://github.com/TuriSc/VRRVRR) - LED-flashing, haptic metronome with presets and tap tempo. Written for Raspberry Pi Pico
 - [TuriSc/Picophonica](https://github.com/TuriSc/Picophonica) - A Raspberry Pi Pico synth engine for a toy keyboard, with instrument presets and Midi out
@@ -107,6 +108,8 @@
 
 ## C++ 
 
+- [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
+- [SaadOjo/DIY_Li-Fi](https://github.com/SaadOjo/DIY_Li-Fi) - 
 - [kukas/48Knobs](https://github.com/kukas/48Knobs) - PCB schematics and firmware for a custom MIDI controller. 48 rotatory potentiometers can be used to control virtual mixers or software synthesizers.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [threedaymonk/footswitch](https://github.com/threedaymonk/footswitch) - A Raspberry Pi Pico MIDI USB footswitch
