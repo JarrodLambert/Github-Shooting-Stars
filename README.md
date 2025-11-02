@@ -60,6 +60,7 @@
 
 ## C 
 
+- [bitbank2/JPEGDEC](https://github.com/bitbank2/JPEGDEC) - An optimized JPEG decoder suitable for microcontrollers and PCs.
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
@@ -109,6 +110,7 @@
 
 ## C++ 
 
+- [nyh-workshop/pico-fmSynth](https://github.com/nyh-workshop/pico-fmSynth) - Basic DX9-inspired FM synth Arduino Library for Raspberry Pico RP2040 and RP2350.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [SaadOjo/DIY_Li-Fi](https://github.com/SaadOjo/DIY_Li-Fi) - 
 - [kukas/48Knobs](https://github.com/kukas/48Knobs) - PCB schematics and firmware for a custom MIDI controller. 48 rotatory potentiometers can be used to control virtual mixers or software synthesizers.
