@@ -250,7 +250,7 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
@@ -267,6 +267,7 @@
 
 ## ai-agents 
 
+- [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -289,6 +290,7 @@
 
 ## android 
 
+- [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -346,6 +348,7 @@
 
 ## artificial-intelligence 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
@@ -509,7 +512,7 @@
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -533,6 +536,7 @@
 
 ## cli 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -630,6 +634,7 @@
 
 ## cybersecurity 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 
@@ -808,6 +813,7 @@
 
 ## emulator 
 
+- [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [GaryZ88/ArduinoGotchi](https://github.com/GaryZ88/ArduinoGotchi) - A real Tamagotchi emulator for Arduino UNO
@@ -969,6 +975,8 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -1197,6 +1205,7 @@
 
 ## llm 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -1301,6 +1310,7 @@
 
 ## markdown 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
@@ -1378,7 +1388,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -1484,7 +1494,7 @@
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
@@ -1508,6 +1518,9 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
+- [jordaneast1/panasonic_calc_hacked](https://github.com/jordaneast1/panasonic_calc_hacked) - hacked version of the panasonic throw distance calculator that allows for out-of-spec curved screens
 - [bitbank2/JPEGDEC](https://github.com/bitbank2/JPEGDEC) - An optimized JPEG decoder suitable for microcontrollers and PCs.
 - [gracebmanning/image-fragmenter](https://github.com/gracebmanning/image-fragmenter) - 
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
@@ -1558,7 +1571,7 @@
 - [debsahu/ESP32_FFT_Audio_LEDs](https://github.com/debsahu/ESP32_FFT_Audio_LEDs) - FFT on ESP32 and using MSGEQ7 to process audio signals
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
 - [wuestenarchitekten/zuweiser](https://github.com/wuestenarchitekten/zuweiser) - der zuweiser
 - [gwangyu-lee/TouchDesigner-X-Computer-Music](https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music) - .tox files for computer musicians
@@ -1731,6 +1744,7 @@
 
 ## penetration-testing 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
