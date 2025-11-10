@@ -60,6 +60,7 @@
 
 ## C 
 
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [bitbank2/JPEGDEC](https://github.com/bitbank2/JPEGDEC) - An optimized JPEG decoder suitable for microcontrollers and PCs.
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
@@ -179,6 +180,7 @@
 
 ## Go 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -206,6 +208,7 @@
 
 ## HTML 
 
+- [jordaneast1/panasonic_calc_hacked](https://github.com/jordaneast1/panasonic_calc_hacked) - hacked version of the panasonic throw distance calculator that allows for out-of-spec curved screens
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [TuriSc/chromelette](https://github.com/TuriSc/chromelette) - Turn a webcam feed into a mood-setting backdrop
 - [Harold-Street-Pedal-Company/HSP_Protoseed](https://github.com/Harold-Street-Pedal-Company/HSP_Protoseed) - Beginner-friendly Arduino library for quick guitar pedal prototyping on Daisy Seed (HSP v1.2). Handles audio, pots, toggles, LEDs, and footswitch events with simple, clear commands—no backend hassle—s
@@ -476,6 +479,8 @@
 
 ## Python 
 
+- [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+- [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 - [tlecomte/friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.)
@@ -653,6 +658,7 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
