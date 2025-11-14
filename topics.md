@@ -1518,6 +1518,7 @@
 
 ## others 
 
+- [Monacrylic/image2KiCAD](https://github.com/Monacrylic/image2KiCAD) - Convert images to KiCAD schematics using AI
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
 - [jordaneast1/panasonic_calc_hacked](https://github.com/jordaneast1/panasonic_calc_hacked) - hacked version of the panasonic throw distance calculator that allows for out-of-spec curved screens
