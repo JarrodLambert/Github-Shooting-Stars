@@ -1518,6 +1518,10 @@
 
 ## others 
 
+- [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
+- [flpvsk/kicad-footprints](https://github.com/flpvsk/kicad-footprints) - 
+- [Circle-Circuits/circuits](https://github.com/Circle-Circuits/circuits) - A collection of original guitar pedal circuits. 🎸⚡️
+- [Circle-Circuits/motherboard](https://github.com/Circle-Circuits/motherboard) - An open-sourced PCB to build any kind of Big Muff guitar pedals. 🎸 🎛
 - [Monacrylic/image2KiCAD](https://github.com/Monacrylic/image2KiCAD) - Convert images to KiCAD schematics using AI
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
