@@ -112,6 +112,7 @@
 
 ## C++ 
 
+- [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
 - [nyh-workshop/pico-fmSynth](https://github.com/nyh-workshop/pico-fmSynth) - Basic DX9-inspired FM synth Arduino Library for Raspberry Pico RP2040 and RP2350.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [SaadOjo/DIY_Li-Fi](https://github.com/SaadOjo/DIY_Li-Fi) - 
@@ -208,6 +209,7 @@
 
 ## HTML 
 
+- [flpvsk/kicad-footprints](https://github.com/flpvsk/kicad-footprints) - 
 - [jordaneast1/panasonic_calc_hacked](https://github.com/jordaneast1/panasonic_calc_hacked) - hacked version of the panasonic throw distance calculator that allows for out-of-spec curved screens
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [TuriSc/chromelette](https://github.com/TuriSc/chromelette) - Turn a webcam feed into a mood-setting backdrop
@@ -388,6 +390,8 @@
 
 ## Others 
 
+- [Circle-Circuits/circuits](https://github.com/Circle-Circuits/circuits) - A collection of original guitar pedal circuits. 🎸⚡️
+- [Circle-Circuits/motherboard](https://github.com/Circle-Circuits/motherboard) - An open-sourced PCB to build any kind of Big Muff guitar pedals. 🎸 🎛
 - [polykit/microphone-preamp](https://github.com/polykit/microphone-preamp) - Schematics and PCB for a microphone preamp with phantom power
 - [tschiemer/midi-uart-adapter](https://github.com/tschiemer/midi-uart-adapter) - PCB layout for a simple MIDI (In-Through-Out) / UART - Adapter according to MIDI 1.0 Specification
 - [MightyMirko/esp32_devkit_38Pins](https://github.com/MightyMirko/esp32_devkit_38Pins) - Custom KiCad Library for ESP32 DEV KIT
