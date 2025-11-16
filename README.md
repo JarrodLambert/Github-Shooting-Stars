@@ -390,6 +390,8 @@
 
 ## Others 
 
+- [the-P1neapple/WinJS-Microsoft-Account-Bypass](https://github.com/the-P1neapple/WinJS-Microsoft-Account-Bypass) - The WinJS-Microsoft-Account-Bypass repo offers a method to skip the Microsoft Account requirement during Windows 11 OOBE. By accessing the Developer Console, users can trigger a hidden local account s
+- [ninabreznik/women-teach-coding](https://github.com/ninabreznik/women-teach-coding) - A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials
 - [Circle-Circuits/circuits](https://github.com/Circle-Circuits/circuits) - A collection of original guitar pedal circuits. 🎸⚡️
 - [Circle-Circuits/motherboard](https://github.com/Circle-Circuits/motherboard) - An open-sourced PCB to build any kind of Big Muff guitar pedals. 🎸 🎛
 - [polykit/microphone-preamp](https://github.com/polykit/microphone-preamp) - Schematics and PCB for a microphone preamp with phantom power
