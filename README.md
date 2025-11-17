@@ -390,6 +390,7 @@
 
 ## Others 
 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [the-P1neapple/WinJS-Microsoft-Account-Bypass](https://github.com/the-P1neapple/WinJS-Microsoft-Account-Bypass) - The WinJS-Microsoft-Account-Bypass repo offers a method to skip the Microsoft Account requirement during Windows 11 OOBE. By accessing the Developer Console, users can trigger a hidden local account s
 - [ninabreznik/women-teach-coding](https://github.com/ninabreznik/women-teach-coding) - A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials
 - [Circle-Circuits/circuits](https://github.com/Circle-Circuits/circuits) - A collection of original guitar pedal circuits. 🎸⚡️
@@ -487,6 +488,7 @@
 
 ## Python 
 
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
