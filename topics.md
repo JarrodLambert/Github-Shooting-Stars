@@ -1530,7 +1530,7 @@
 
 - [stosumarte/VisionBackgroundTOP](https://github.com/stosumarte/VisionBackgroundTOP) - TouchDesigner plugin that leverages Apple's Vision framework to remove background from a video stream.
 - [stosumarte/FreenectTD](https://github.com/stosumarte/FreenectTD) - Kinect support for TouchDesigner on Mac.
-- [Whamp/chirp](https://github.com/Whamp/chirp) - 
+- [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [ninabreznik/women-teach-coding](https://github.com/ninabreznik/women-teach-coding) - A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials
 - [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
 - [flpvsk/kicad-footprints](https://github.com/flpvsk/kicad-footprints) - 
