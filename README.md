@@ -490,7 +490,7 @@
 
 ## Python 
 
-- [Whamp/chirp](https://github.com/Whamp/chirp) - 
+- [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
