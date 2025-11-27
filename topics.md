@@ -9,6 +9,7 @@
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
+- [algorithms](#algorithms)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -37,6 +38,7 @@
 - [cms](#cms)
 - [code](#code)
 - [coding](#coding)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
@@ -94,6 +96,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -290,6 +293,13 @@
 ## algorithmic-trading 
 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+
+## algorithms 
+
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
+- [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
+- [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 
 ## android 
 
@@ -506,7 +516,7 @@
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 ## chatgpt 
@@ -514,7 +524,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
@@ -582,6 +592,16 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+
+## command-line 
+
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
 ## computer-science 
 
@@ -966,6 +986,15 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+
+## gui 
+
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 
 ## hacking 
 
@@ -1500,7 +1529,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1528,6 +1557,7 @@
 
 ## others 
 
+- [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - Dual-screen Android launcher designed for handhelds like AYANEO Pocket DS, Odin 2, and Retroid Dual-Screen. Currently in Alpha.
 - [stosumarte/VisionBackgroundTOP](https://github.com/stosumarte/VisionBackgroundTOP) - TouchDesigner plugin that leverages Apple's Vision framework to remove background from a video stream.
 - [stosumarte/FreenectTD](https://github.com/stosumarte/FreenectTD) - Kinect support for TouchDesigner on Mac.
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
@@ -1704,7 +1734,6 @@
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [dianlight/hassio-addons](https://github.com/dianlight/hassio-addons) - Hassio.io
 - [lordgiotto/google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine. Both CLI and API available.
-- [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [albinekb/open-pip-cli](https://github.com/albinekb/open-pip-cli) - 📺 CLI for https://github.com/albinekb/open-pip - Open a movie url or path in macOS picture-in-picture
 - [SamVerschueren/mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile icon generator
@@ -1725,7 +1754,7 @@
 - [nurdinm/Iseng](https://github.com/nurdinm/Iseng) - Auto Swipe Up when blinking eyes - Used for scrolling tiktok, reels or youtube short when rebahan
 - [hedwiggggg/ugrip](https://github.com/hedwiggggg/ugrip) - https://hedwiggggg.github.io/ugrip - ultimate-guitar.com - user interface & pdf generator
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
-- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. This is free, don't expect it to be perfect.
+- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch.
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
 - [ElectroSmash/pedalshield](https://github.com/ElectroSmash/pedalshield) - pedalSHIELD Arduino Guitar Pedal.
 - [mstratman/fv1-programs](https://github.com/mstratman/fv1-programs) - A list of FV-1 programs for DIY guitar pedals and other effects applications
@@ -1741,7 +1770,7 @@
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [jordanbaird/nushell](https://github.com/jordanbaird/nushell) - A new type of shell
 - [jordanbaird/darkreader](https://github.com/jordanbaird/darkreader) - Dark Reader Chrome and Firefox extension
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
@@ -2030,6 +2059,7 @@
 
 ## security 
 
+- [tg12/dns-honeypot](https://github.com/tg12/dns-honeypot) - dns-honeypot
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
