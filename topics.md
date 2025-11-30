@@ -1572,6 +1572,7 @@
 
 ## others 
 
+- [MichaelAyles/kicad-netlist-tool](https://github.com/MichaelAyles/kicad-netlist-tool) - Realtime updating of a simple component and netlist for LLM automation of documentation
 - [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - Dual-screen Android launcher designed for handhelds like AYANEO Pocket DS, Odin 2, and Retroid Dual-Screen. Currently in Alpha.
 - [stosumarte/VisionBackgroundTOP](https://github.com/stosumarte/VisionBackgroundTOP) - TouchDesigner plugin that leverages Apple's Vision framework to remove background from a video stream.
 - [stosumarte/FreenectTD](https://github.com/stosumarte/FreenectTD) - Kinect support for TouchDesigner on Mac.
