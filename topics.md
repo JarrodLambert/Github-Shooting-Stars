@@ -1572,6 +1572,8 @@
 
 ## others 
 
+- [haricane8133/graytimer](https://github.com/haricane8133/graytimer) - A custom home made e paper watch!
+- [Illutron/AndroidExamples](https://github.com/Illutron/AndroidExamples) - Small sketches with some general helpers for android + arduino development. (Mobile Inside Out Workshop)
 - [hugeBlack/iloader](https://github.com/hugeBlack/iloader) - User friendly sideloader
 - [benkuper/Chataigne](https://github.com/benkuper/Chataigne) - Artist-friendly Modular Machine for Art and Technology
 - [TuriSc/Pico-Menu-System](https://github.com/TuriSc/Pico-Menu-System) - A C library for creating hierarchical menu systems on displays with Raspberry Pi Pico
