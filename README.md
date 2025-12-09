@@ -60,6 +60,8 @@
 
 ## C 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [edgeimpulse/edge-impulse-sdk-zephyr](https://github.com/edgeimpulse/edge-impulse-sdk-zephyr) - Edge Impulse SDK Zephyr module
 - [haricane8133/graytimer](https://github.com/haricane8133/graytimer) - A custom home made e paper watch!
 - [TuriSc/Pico-Menu-System](https://github.com/TuriSc/Pico-Menu-System) - A C library for creating hierarchical menu systems on displays with Raspberry Pi Pico
@@ -115,6 +117,8 @@
 
 ## C++ 
 
+- [diyelectromusic/sdemp](https://github.com/diyelectromusic/sdemp) - Simple DIY Electronic Music Projects
+- [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [damellis/ESP](https://github.com/damellis/ESP) - The Example-based Sensor Predictions (ESP) system applies machine learning to real-time sensor data.
 - [benkuper/Chataigne](https://github.com/benkuper/Chataigne) - Artist-friendly Modular Machine for Art and Technology
 - [stosumarte/VisionBackgroundTOP](https://github.com/stosumarte/VisionBackgroundTOP) - TouchDesigner plugin that leverages Apple's Vision framework to remove background from a video stream.
@@ -188,6 +192,8 @@
 
 ## Go 
 
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -347,6 +353,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [terrakok/WikWok](https://github.com/terrakok/WikWok) - WikWok is a beautiful and functional app that transforms your Wikipedia reading experience into an engaging, TikTok-style article feed. Learn something new with every scroll!
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
@@ -398,6 +405,7 @@
 
 ## Others 
 
+- [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [flipacholas/Architecture-of-consoles](https://github.com/flipacholas/Architecture-of-consoles) - Technical articles about console architecture
 - [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - Dual-screen Android launcher designed for handhelds like AYANEO Pocket DS, Odin 2, and Retroid Dual-Screen. Currently in Alpha.
 - [tg12/dns-honeypot](https://github.com/tg12/dns-honeypot) - dns-honeypot
@@ -498,6 +506,9 @@
 
 ## Python 
 
+- [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
+- [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [MichaelAyles/kicad-netlist-tool](https://github.com/MichaelAyles/kicad-netlist-tool) - Realtime updating of a simple component and netlist for LLM automation of documentation
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -620,7 +631,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - http
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -641,6 +652,7 @@
 
 ## Shell 
 
+- [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [usenocturne/nocturne](https://github.com/usenocturne/nocturne) - The most advanced custom firmware for the Spotify Car Thing.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -718,7 +730,7 @@
 - [OpenWonderLabs/node-switchbot](https://github.com/OpenWonderLabs/node-switchbot) - The node-switchbot is a Node.js module which allows you communicate with SwitchBot Devices over BLE or OpenAPI
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
