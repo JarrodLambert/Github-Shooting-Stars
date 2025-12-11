@@ -70,7 +70,7 @@
 - [bitbank2/JPEGDEC](https://github.com/bitbank2/JPEGDEC) - An optimized JPEG decoder suitable for microcontrollers and PCs.
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-- [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
+- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
 - [TuriSc/VRRVRR](https://github.com/TuriSc/VRRVRR) - LED-flashing, haptic metronome with presets and tap tempo. Written for Raspberry Pi Pico
 - [TuriSc/Picophonica](https://github.com/TuriSc/Picophonica) - A Raspberry Pi Pico synth engine for a toy keyboard, with instrument presets and Midi out
 - [TuriSc/Pico-Sequencer-Synth](https://github.com/TuriSc/Pico-Sequencer-Synth) - A polyphonic, multitimbral DDS (Direct Digital Synthesis) library for Raspberry Pi Pico with a sequencer supporting up to 8 channels
@@ -117,6 +117,8 @@
 
 ## C++ 
 
+- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
+- [vovagorodok/ArduinoBleOTA](https://github.com/vovagorodok/ArduinoBleOTA) - Upload firmware over Bluetooth
 - [diyelectromusic/sdemp](https://github.com/diyelectromusic/sdemp) - Simple DIY Electronic Music Projects
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [damellis/ESP](https://github.com/damellis/ESP) - The Example-based Sensor Predictions (ESP) system applies machine learning to real-time sensor data.
@@ -507,6 +509,7 @@
 
 ## Python 
 
+- [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
@@ -565,7 +568,7 @@
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
