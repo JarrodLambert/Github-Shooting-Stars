@@ -107,6 +107,7 @@
 
 ## C# # 
 
+- [zalo/MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
@@ -120,6 +121,7 @@
 
 ## C++ 
 
+- [offa/midi-footswitch](https://github.com/offa/midi-footswitch) - An Aruduino based USB MIDI Controller.
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
 - [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
 - [vovagorodok/ArduinoBleOTA](https://github.com/vovagorodok/ArduinoBleOTA) - Upload firmware over Bluetooth
@@ -362,6 +364,7 @@
 
 ## Kotlin 
 
+- [moehamade/android-modular-template](https://github.com/moehamade/android-modular-template) - Production-ready Android template with Jetpack Compose, Clean Architecture, multi-module setup, Firebase integration, and CI/CD. One-command rebranding   included.
 - [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels and other Androids
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
