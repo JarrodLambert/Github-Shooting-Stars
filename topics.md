@@ -78,6 +78,7 @@
 - [express](#express)
 - [facebook](#facebook)
 - [finance](#finance)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -163,6 +164,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [physics](#physics)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -222,6 +224,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -325,6 +328,7 @@
 
 ## android 
 
+- [moehamade/android-modular-template](https://github.com/moehamade/android-modular-template) - Production-ready Android template with Jetpack Compose, Clean Architecture, multi-module setup, Firebase integration, and CI/CD. One-command rebranding   included.
 - [patzly/tack-android](https://github.com/patzly/tack-android) - Beautiful metronome for Android with a powerful Wear OS experience
 - [sakethpathike/Otic](https://github.com/sakethpathike/Otic) - Minimal Android app to stream microphone input to the local network.
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels and other Androids
@@ -372,6 +376,7 @@
 
 ## arduino 
 
+- [offa/midi-footswitch](https://github.com/offa/midi-footswitch) - An Aruduino based USB MIDI Controller.
 - [vovagorodok/ArduinoBleOTA](https://github.com/vovagorodok/ArduinoBleOTA) - Upload firmware over Bluetooth
 - [diyelectromusic/sdemp](https://github.com/diyelectromusic/sdemp) - Simple DIY Electronic Music Projects
 - [nyh-workshop/pico-fmSynth](https://github.com/nyh-workshop/pico-fmSynth) - Basic DX9-inspired FM synth Arduino Library for Raspberry Pico RP2040 and RP2350.
@@ -905,6 +910,10 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 
+## firebase 
+
+- [moehamade/android-modular-template](https://github.com/moehamade/android-modular-template) - Production-ready Android template with Jetpack Compose, Clean Architecture, multi-module setup, Firebase integration, and CI/CD. One-command rebranding   included.
+
 ## firefox 
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1241,6 +1250,7 @@
 
 ## kotlin 
 
+- [moehamade/android-modular-template](https://github.com/moehamade/android-modular-template) - Production-ready Android template with Jetpack Compose, Clean Architecture, multi-module setup, Firebase integration, and CI/CD. One-command rebranding   included.
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) - Essential tools, mods and workarounds for Pixels and other Androids
 - [terrakok/WikWok](https://github.com/terrakok/WikWok) - WikWok is a beautiful and functional app that transforms your Wikipedia reading experience into an engaging, TikTok-style article feed. Learn something new with every scroll!
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -1920,6 +1930,10 @@
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 
+## physics 
+
+- [zalo/MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
+
 ## pixel-art 
 
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
@@ -2450,6 +2464,10 @@
 ## ui-design 
 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+
+## unity 
+
+- [zalo/MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 
 ## vim 
 
