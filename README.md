@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [dejwk/roo_display](https://github.com/dejwk/roo_display) - Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
 - [midilab/aciduino](https://github.com/midilab/aciduino) - Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or strea
 - [ckormanyos/real-time-cpp](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
 - [rkistner/arcore](https://github.com/rkistner/arcore) - MIDI-USB Support for Arduino
@@ -564,6 +565,7 @@
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -595,6 +597,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -702,7 +705,6 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Swift 
