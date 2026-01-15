@@ -158,6 +158,7 @@
 - [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -1657,6 +1658,10 @@
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
+## operating-system 
+
+- [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular POSIX-like flash OS for microcontrollers based on MicroPython
+
 ## osint 
 
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -1734,7 +1739,6 @@
 - [cfinke/LEGO.scad](https://github.com/cfinke/LEGO.scad) - An OpenSCAD LEGO-compatible brick generator.
 - [rheslip/Raspberry-Pi-Pico-Eurorack-Drum-Sample-Player](https://github.com/rheslip/Raspberry-Pi-Pico-Eurorack-Drum-Sample-Player) - Sample player based on my ESP32 drum machine
 - [ByteWelder/Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
-- [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular POSIX-like flash OS for microcontrollers based on MicroPython
 - [Bylin-code/Stradex1](https://github.com/Bylin-code/Stradex1) - 
 - [polykit/eurorack-sequencer-software](https://github.com/polykit/eurorack-sequencer-software) - Software for an Arduino based 8-step chainable sequencer
 - [adafruit/Adafruit_CAD_Parts](https://github.com/adafruit/Adafruit_CAD_Parts) - CAD files for various boards, components and parts
@@ -2139,6 +2143,7 @@
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
+- [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular POSIX-like flash OS for microcontrollers based on MicroPython
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [garlic-signage/garlic-player](https://github.com/garlic-signage/garlic-player) - Digital Signage Software - Media Player  based on SMIL
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
