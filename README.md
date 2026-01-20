@@ -276,7 +276,6 @@
 
 ## JavaScript 
 
-- [aagentah/nw_wrld](https://github.com/aagentah/nw_wrld) - nw_wrld is an event-driven sequencer for triggering visuals using web technologies. It enables users to scale up audiovisual compositions for prototyping, demos, exhibitions, and live performances. Us
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
 - [gracebmanning/image-fragmenter](https://github.com/gracebmanning/image-fragmenter) - 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -430,6 +429,7 @@
 
 ## Others 
 
+- [tiicu/tiicu](https://github.com/tiicu/tiicu) - Home of tiicu — the first custom emulator frontend for Nintendo Switch homebrew, inspired by iiSU. Find releases, report issues, and follow development here.
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [flipacholas/Architecture-of-consoles](https://github.com/flipacholas/Architecture-of-consoles) - Technical articles about console architecture
@@ -663,7 +663,7 @@
 - [orhun/tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit 🎛️🎸
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-- [khcrysalis/PlumeImpactor](https://github.com/khcrysalis/PlumeImpactor) - Cross-platform feature rich iOS/tvOS sideloading application. Supporting macOS, Linux, and Windows.
+- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
@@ -734,6 +734,7 @@
 
 ## TypeScript 
 
+- [aagentah/nw_wrld](https://github.com/aagentah/nw_wrld) - nw_wrld is an event-driven sequencer for triggering visuals using web technologies. It enables users to scale up audiovisual compositions for prototyping, demos, exhibitions, and live performances. Us
 - [orangekame3/mirrormate](https://github.com/orangekame3/mirrormate) - Self-hosted personalized AI in a mirror.
 - [KartikLabhshetwar/oneurl](https://github.com/KartikLabhshetwar/oneurl) - One URL for all your links, An open-source alternative to Linktree. Create a beautiful profile page to share all your important links in one place.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
