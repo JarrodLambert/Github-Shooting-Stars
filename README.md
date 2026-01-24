@@ -534,7 +534,7 @@
 ## Python 
 
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - How can we build a true AI agent? Like Claude Code.
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
 - [MaximeVandegar/Papers-in-100-Lines-of-Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) - Implementation of papers in 100 lines of code.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
@@ -782,7 +782,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
