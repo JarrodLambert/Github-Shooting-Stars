@@ -61,6 +61,7 @@
 
 ## C 
 
+- [wagiminator/AVR-Programmer](https://github.com/wagiminator/AVR-Programmer) - Collection of AVR Programmers and Accessories
 - [BlommeJan/Starkpad](https://github.com/BlommeJan/Starkpad) - A Linux-powered touchscreen macro deck and virtual input device. Features a customizable 60-button grid, virtual keyboard, precision touchpad, and web-based configuration UI. Built with LVGL on Arduin
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
