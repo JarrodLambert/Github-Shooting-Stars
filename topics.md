@@ -1039,7 +1039,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [galeone/fitsleepinsights](https://github.com/galeone/fitsleepinsights) - Custom dashboard for Fitbit users. RAG support (gemini-based) for chatting with your data and getting insights about your fitness activities and sleep data
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -1057,7 +1057,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [galeone/fitsleepinsights](https://github.com/galeone/fitsleepinsights) - Custom dashboard for Fitbit users. RAG support (gemini-based) for chatting with your data and getting insights about your fitness activities and sleep data
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -1169,7 +1169,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [hassio-addons/addon-plex](https://github.com/hassio-addons/addon-plex) - Plex Media Server - Home Assistant Community Add-ons
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
@@ -1517,6 +1517,7 @@
 
 ## music 
 
+- [rerdavies/pipedal](https://github.com/rerdavies/pipedal) - Guitar Effect Pedal for Raspberry Pi, with a web interface designed specifically for phones.
 - [midilab/aciduino](https://github.com/midilab/aciduino) - Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or strea
 - [diyelectromusic/sdemp](https://github.com/diyelectromusic/sdemp) - Simple DIY Electronic Music Projects
 - [TuriSc/earboard](https://github.com/TuriSc/earboard) - An ear training tool modeled on guitar and bass fretboards
@@ -1703,6 +1704,7 @@
 
 ## others 
 
+- [dmcke5/Hapticpad](https://github.com/dmcke5/Hapticpad) - A 6 button macropad with a display for button labels and a mouse knob with haptic feedback!
 - [o7-machinehum/Blackpants](https://github.com/o7-machinehum/Blackpants) - 
 - [KoStard/optics_raytracer](https://github.com/KoStard/optics_raytracer) - 3D Optics ray-tracer, allowing image rendering and 3D scene export as OBJ file
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
@@ -2180,6 +2182,7 @@
 
 ## raspberry-pi 
 
+- [rerdavies/pipedal](https://github.com/rerdavies/pipedal) - Guitar Effect Pedal for Raspberry Pi, with a web interface designed specifically for phones.
 - [orangekame3/mirrormate](https://github.com/orangekame3/mirrormate) - Self-hosted personalized AI in a mirror.
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
