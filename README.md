@@ -599,6 +599,7 @@
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [ryanwa18/spotipi](https://github.com/ryanwa18/spotipi) - Displays current song's cover art on 32x32 or 64x64 led matrix
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -715,7 +716,6 @@
 - [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create Piper text-to-speech models in any voice.  Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi.   Rapidly record c
 - [raspberrypi/pi-gen-micro](https://github.com/raspberrypi/pi-gen-micro) - A tool for building minimal Raspberry Pi OS-based operating systems, which do not contain apt or dpkg.
 - [LivingWithHippos/server-stuff](https://github.com/LivingWithHippos/server-stuff) - A collection of configuration files/scripts for my server
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
 - [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
