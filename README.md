@@ -89,7 +89,6 @@
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) - A Real-World Minecraft Compass
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
@@ -159,6 +158,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - Clock/Weather station with ESP8266/ESP32
 - [mathertel/Radio](https://github.com/mathertel/Radio) - An Arduino library to control FM radio chips like SI4703, SI4705, RDA5807M, TEA5767.
+- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [debsahu/ESP32_FFT_Audio_LEDs](https://github.com/debsahu/ESP32_FFT_Audio_LEDs) - FFT on ESP32 and using MSGEQ7 to process audio signals
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
@@ -214,6 +214,8 @@
 
 ## Go 
 
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw
+- [mosaxiv/picoclaw](https://github.com/mosaxiv/picoclaw) - Lightweight Personal AI Assistant (Single Binary, Simple Setup)
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -689,7 +691,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
-- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
+- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
