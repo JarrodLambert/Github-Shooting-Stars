@@ -450,7 +450,6 @@
 - [flipacholas/Architecture-of-consoles](https://github.com/flipacholas/Architecture-of-consoles) - Technical articles about console architecture
 - [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - Dual-screen Android launcher designed for handhelds like the AYN Thor, AYANEO Pocket DS, Odin 2, and Retroid Dual-Screen. Currently in Alpha.
 - [tg12/dns-honeypot](https://github.com/tg12/dns-honeypot) - dns-honeypot
-- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [the-P1neapple/WinJS-Microsoft-Account-Bypass](https://github.com/the-P1neapple/WinJS-Microsoft-Account-Bypass) - The WinJS-Microsoft-Account-Bypass repo offers a method to skip the Microsoft Account requirement during Windows 11 OOBE. By accessing the Developer Console, users can trigger a hidden local account s
 - [ninabreznik/women-teach-coding](https://github.com/ninabreznik/women-teach-coding) - A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials
 - [Circle-Circuits/circuits](https://github.com/Circle-Circuits/circuits) - A collection of original guitar pedal circuits. 🎸⚡️
@@ -566,6 +565,7 @@
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [MichaelAyles/kicad-netlist-tool](https://github.com/MichaelAyles/kicad-netlist-tool) - Realtime updating of a simple component and netlist for LLM automation of documentation
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -696,7 +696,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
