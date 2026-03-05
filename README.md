@@ -680,6 +680,7 @@
 
 ## Rust 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [mbracher/push2_display](https://github.com/mbracher/push2_display) - Ableton Push2 Embedded-graphics display driver
 - [mbracher/push2_pong](https://github.com/mbracher/push2_pong) - 
 - [jacobrosenthal/dsp-discoveryf4-rust](https://github.com/jacobrosenthal/dsp-discoveryf4-rust) - https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166
