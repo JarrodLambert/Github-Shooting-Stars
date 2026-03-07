@@ -446,6 +446,7 @@
 
 ## awesome 
 
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -1714,6 +1715,7 @@
 
 ## others 
 
+- [rh1tech/frankos](https://github.com/rh1tech/frankos) - FRANK OS - The RP2350 Operating System
 - [mbracher/push2_display](https://github.com/mbracher/push2_display) - Ableton Push2 Embedded-graphics display driver
 - [mbracher/push2_pong](https://github.com/mbracher/push2_pong) - 
 - [jacobrosenthal/dsp-discoveryf4-rust](https://github.com/jacobrosenthal/dsp-discoveryf4-rust) - https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166
