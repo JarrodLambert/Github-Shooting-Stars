@@ -61,6 +61,7 @@
 
 ## C 
 
+- [rh1tech/frankos](https://github.com/rh1tech/frankos) - FRANK OS - The RP2350 Operating System
 - [ducalex/retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [wagiminator/AVR-Programmer](https://github.com/wagiminator/AVR-Programmer) - Collection of AVR Programmers and Accessories
@@ -260,6 +261,7 @@
 - [Harold-Street-Pedal-Company/HSP_Protoseed](https://github.com/Harold-Street-Pedal-Company/HSP_Protoseed) - Beginner-friendly Arduino library for quick guitar pedal prototyping on Daisy Seed (HSP v1.2). Handles audio, pots, toggles, LEDs, and footswitch events with simple, clear commands—no backend hassle—s
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) - 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [raspberrypi/rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) - A tool to generate highly customised software images for Raspberry Pi devices.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Richard-Burns/SimpleMixer](https://github.com/Richard-Burns/SimpleMixer) - A video mixer built in TouchDesigner
@@ -447,6 +449,7 @@
 
 ## Others 
 
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [flipacholas/Architecture-of-consoles](https://github.com/flipacholas/Architecture-of-consoles) - Technical articles about console architecture
@@ -587,7 +590,6 @@
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
-- [raspberrypi/rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) - A tool to generate highly customised software images for Raspberry Pi devices.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
