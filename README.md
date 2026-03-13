@@ -452,7 +452,7 @@
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [flipacholas/Architecture-of-consoles](https://github.com/flipacholas/Architecture-of-consoles) - Technical articles about console architecture
-- [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - Dual-screen Android launcher designed for handhelds like the AYN Thor, AYANEO Pocket DS, Odin 2, and Retroid Dual-Screen. Currently in Alpha.
+- [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - An Android launcher designed for handhelds like the AYN Thor, AYANEO Pocket DS, Odin 2, and Retroid Pocket 5. Currently in Alpha.
 - [tg12/dns-honeypot](https://github.com/tg12/dns-honeypot) - dns-honeypot
 - [the-P1neapple/WinJS-Microsoft-Account-Bypass](https://github.com/the-P1neapple/WinJS-Microsoft-Account-Bypass) - The WinJS-Microsoft-Account-Bypass repo offers a method to skip the Microsoft Account requirement during Windows 11 OOBE. By accessing the Developer Console, users can trigger a hidden local account s
 - [ninabreznik/women-teach-coding](https://github.com/ninabreznik/women-teach-coding) - A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials
@@ -835,7 +835,7 @@
 - [zackhanni/artist-epk](https://github.com/zackhanni/artist-epk) - A react template designed for artists to quickly create a portfolio or electronic press kit
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
