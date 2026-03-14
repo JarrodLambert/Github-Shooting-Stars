@@ -300,7 +300,6 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -1236,7 +1235,6 @@
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [museumsvictoria/nodel](https://github.com/museumsvictoria/nodel) - A digital media control system for museums and galleries
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -1927,6 +1925,7 @@
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [baztian/docker-wine](https://github.com/baztian/docker-wine) - Docker image to start windows executables via wine
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [Shingyx/BoomSwitch](https://github.com/Shingyx/BoomSwitch) - Switch on/off your UE BOOM Bluetooth speaker from your Android device
 - [eni23/ueboom](https://github.com/eni23/ueboom) - 
