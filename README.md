@@ -177,7 +177,7 @@
 - [shmoergh/hog](https://github.com/shmoergh/hog) - Fully analog two-voice monophonic synth for live performances
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [chungbwc/TouchDesigner](https://github.com/chungbwc/TouchDesigner) - This is the research and development repository related to my teaching in the Academy of Visual Arts, HKBU, using the TouchDesigner software.
-- [eidetic-av/pointcaster](https://github.com/eidetic-av/pointcaster) - Capture, combine, analyse and broadcast point-clouds for use in real-time interactive media.
+- [matth-av/pointcaster](https://github.com/matth-av/pointcaster) - Capture, combine, analyse and broadcast point-clouds for use in real-time interactive media.
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
