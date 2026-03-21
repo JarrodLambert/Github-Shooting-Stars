@@ -1760,7 +1760,7 @@
 - [benkuper/Chataigne](https://github.com/benkuper/Chataigne) - Artist-friendly Modular Machine for Art and Technology
 - [TuriSc/Pico-Menu-System](https://github.com/TuriSc/Pico-Menu-System) - A C library for creating hierarchical menu systems on displays with Raspberry Pi Pico
 - [MichaelAyles/kicad-netlist-tool](https://github.com/MichaelAyles/kicad-netlist-tool) - Realtime updating of a simple component and netlist for LLM automation of documentation
-- [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - An Android launcher designed for handhelds like the AYN Thor, AYANEO Pocket DS, Odin 2, and Retroid Pocket 5. Currently in Alpha.
+- [iisu-network/iiSU](https://github.com/iisu-network/iiSU) - A visuals-first Android launcher designed for handhelds. Currently in Alpha.
 - [stosumarte/VisionBackgroundTOP](https://github.com/stosumarte/VisionBackgroundTOP) - TouchDesigner plugin that leverages Apple's Vision framework to remove background from a video stream.
 - [stosumarte/FreenectTD](https://github.com/stosumarte/FreenectTD) - Kinect support for TouchDesigner on Mac.
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
