@@ -342,7 +342,7 @@
 - [mstratman/fv1-programs](https://github.com/mstratman/fv1-programs) - A list of FV-1 programs for DIY guitar pedals and other effects applications
 - [VladWithCookies/minilogue-midi-controller](https://github.com/VladWithCookies/minilogue-midi-controller) - Lets you control Korg Minilogue from your browser
 - [jeffkistler/minilogue-editor](https://github.com/jeffkistler/minilogue-editor) - A web-based program viewer and editor for the Korg Minilogue.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [FabricLabs/soundtrack](https://github.com/FabricLabs/soundtrack) - Self-hosted collaborative music playing application.
 - [caiotarifa/notion2sheets](https://github.com/caiotarifa/notion2sheets) - Fetch data from a Notion database and update or append the data to a Google Sheets document.
 - [AndreaBellomia/GoogleSheetsNotion](https://github.com/AndreaBellomia/GoogleSheetsNotion) - Automatic data transfer from Google Shetts to Notion Pages
