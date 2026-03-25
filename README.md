@@ -683,6 +683,7 @@
 
 ## Rust 
 
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses, and media from 50+ platforms. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dl
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [mbracher/push2_display](https://github.com/mbracher/push2_display) - Ableton Push2 Embedded-graphics display driver
@@ -710,7 +711,7 @@
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 - [ivabus/lonelyradio](https://github.com/ivabus/lonelyradio) - Lightweight Music Streamer
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
