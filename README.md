@@ -180,7 +180,7 @@
 - [chungbwc/TouchDesigner](https://github.com/chungbwc/TouchDesigner) - This is the research and development repository related to my teaching in the Academy of Visual Arts, HKBU, using the TouchDesigner software.
 - [matth-av/pointcaster](https://github.com/matth-av/pointcaster) - Capture, combine, analyse and broadcast point-clouds for use in real-time interactive media.
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
@@ -343,7 +343,6 @@
 - [mstratman/fv1-programs](https://github.com/mstratman/fv1-programs) - A list of FV-1 programs for DIY guitar pedals and other effects applications
 - [VladWithCookies/minilogue-midi-controller](https://github.com/VladWithCookies/minilogue-midi-controller) - Lets you control Korg Minilogue from your browser
 - [jeffkistler/minilogue-editor](https://github.com/jeffkistler/minilogue-editor) - A web-based program viewer and editor for the Korg Minilogue.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [FabricLabs/soundtrack](https://github.com/FabricLabs/soundtrack) - Self-hosted collaborative music playing application.
 - [caiotarifa/notion2sheets](https://github.com/caiotarifa/notion2sheets) - Fetch data from a Notion database and update or append the data to a Google Sheets document.
 - [AndreaBellomia/GoogleSheetsNotion](https://github.com/AndreaBellomia/GoogleSheetsNotion) - Automatic data transfer from Google Shetts to Notion Pages
@@ -660,7 +659,6 @@
 - [radeklat/todoist-habitica-sync](https://github.com/radeklat/todoist-habitica-sync) - One way Todoist to Habitica sync to allow scoring points for completed tasks.
 - [programmerPhysicist/Project_Hype-Berry](https://github.com/programmerPhysicist/Project_Hype-Berry) - Work in progress, but intended to sync Habitica with Todoist. We haven't decided on a good name for the project, so we are going with Project Hype-Berry for the moment.
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
@@ -753,6 +751,7 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto) - Soduto is a KDE Connect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
 - [yep/app-downloader](https://github.com/yep/app-downloader) - Easily search for macOS apps from the `homebrew cask` app catalog.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [mik3sw/OneClick](https://github.com/mik3sw/OneClick) - macOS Utility menubar app 🚀
