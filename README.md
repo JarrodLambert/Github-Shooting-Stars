@@ -421,7 +421,6 @@
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
 - [mt8695/android_device_amazon_sheldon](https://github.com/mt8695/android_device_amazon_sheldon) - 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -525,6 +524,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [z11h/awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [mirkogrewing/raspberry-pi-torrent-plex](https://github.com/mirkogrewing/raspberry-pi-torrent-plex) - A collection of documents explaining how to make a fully autonomous box out of a Raspberry Pi.
 - [agisota/gpt-actions](https://github.com/agisota/gpt-actions) - A compendium plug-n-play API schemas designed to work with OpenAI's "custom GPT" actions.
 
@@ -622,6 +622,7 @@
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -792,7 +793,7 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
