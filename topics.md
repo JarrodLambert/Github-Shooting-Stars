@@ -75,6 +75,7 @@
 - [embedded](#embedded)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
@@ -257,7 +258,7 @@
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -273,7 +274,7 @@
 - [orangekame3/mirrormate](https://github.com/orangekame3/mirrormate) - Self-hosted personalized AI in a mirror.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -393,6 +394,7 @@
 
 ## arduino 
 
+- [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
 - [wagiminator/AVR-Programmer](https://github.com/wagiminator/AVR-Programmer) - Collection of AVR Programmers and Accessories
 - [midilab/aciduino](https://github.com/midilab/aciduino) - Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or strea
 - [ckormanyos/real-time-cpp](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
@@ -602,7 +604,7 @@
 
 ## chrome-extension 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## cli 
@@ -782,7 +784,6 @@
 - [girafe-ai/ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -931,6 +932,25 @@
 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 
+## esp32 
+
+- [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ducalex/retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
+- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
+- [evert-arias/EasyButton](https://github.com/evert-arias/EasyButton) - Arduino library for debouncing momentary contact switches, detect press, release, long press and sequences with event definitions and callbacks.
+- [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
+- [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular POSIX-like flash OS for microcontrollers based on MicroPython
+- [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-base
+- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [debsahu/ESP32_FFT_Audio_LEDs](https://github.com/debsahu/ESP32_FFT_Audio_LEDs) - FFT on ESP32 and using MSGEQ7 to process audio signals
+- [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
+- [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - snapclient on ESP32
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+
 ## ethereum 
 
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
@@ -945,7 +965,7 @@
 
 ## fastapi 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## finance 
 
@@ -1447,7 +1467,6 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
@@ -1583,7 +1602,7 @@
 
 ## nextjs 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -1836,8 +1855,6 @@
 - [CNMAT/OSC](https://github.com/CNMAT/OSC) - OSC: Arduino and Teensy implementation of OSC encoding
 - [Harold-Street-Pedal-Company/HSP_Protoseed](https://github.com/Harold-Street-Pedal-Company/HSP_Protoseed) - Beginner-friendly Arduino library for quick guitar pedal prototyping on Daisy Seed (HSP v1.2). Handles audio, pots, toggles, LEDs, and footswitch events with simple, clear commands—no backend hassle—s
 - [ssmythe/learn_mandarin_chinese](https://github.com/ssmythe/learn_mandarin_chinese) - A how to guide on how I learn Mandarin Chinese.
-- [debsahu/ESP32_FFT_Audio_LEDs](https://github.com/debsahu/ESP32_FFT_Audio_LEDs) - FFT on ESP32 and using MSGEQ7 to process audio signals
-- [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
@@ -1903,7 +1920,6 @@
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever y
-- [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - snapclient on ESP32
 - [firefrei/docker-snapcast](https://github.com/firefrei/docker-snapcast) - Snapcast multi-room audio streaming with Airplay (1&2), Spotify and HTTPS support enabled. Based on Alpine.
 - [brunopadz/mkcert-docker](https://github.com/brunopadz/mkcert-docker) - Run mkcert from a docker container
 - [ryanwa18/spotipi](https://github.com/ryanwa18/spotipi) - Displays current song's cover art on 32x32 or 64x64 led matrix
@@ -2116,7 +2132,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [big-nacho/dosage](https://github.com/big-nacho/dosage) - Real time visual saliency detection ✨
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
@@ -2141,7 +2157,6 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2203,7 +2218,7 @@
 
 ## rag 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
@@ -2549,7 +2564,7 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
