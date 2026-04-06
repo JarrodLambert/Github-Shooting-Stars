@@ -447,6 +447,7 @@
 
 ## Others 
 
+- [isw3d/TouchDesigner-Linux](https://github.com/isw3d/TouchDesigner-Linux) - Run TouchDesigner on Linux with Bottles. Includes full setup, dependencies, and a working fix for missing fonts.
 - [Elias55745/mini-laser-printer](https://github.com/Elias55745/mini-laser-printer) - mini laser printer
 - [iMike78/home-mini-v1-drop-in-pcb](https://github.com/iMike78/home-mini-v1-drop-in-pcb) - Replacement PCB for the Google Home mini v1
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
