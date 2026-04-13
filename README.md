@@ -114,6 +114,7 @@
 
 ## C# # 
 
+- [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [zalo/MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -350,7 +351,7 @@
 
 ## Jinja 
 
-- [hassio-addons/addon-plex](https://github.com/hassio-addons/addon-plex) - Plex Media Server - Home Assistant Community Add-ons
+- [hassio-addons/app-plex](https://github.com/hassio-addons/app-plex) - Plex Media Server - Home Assistant Community Apps
 
 ## Jupyter Notebook 
 
@@ -684,6 +685,7 @@
 
 ## Rust 
 
+- [MaxBittker/orb.farm](https://github.com/MaxBittker/orb.farm) - sealed aquatic ecosystem
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dlp. Download torrents and send 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
