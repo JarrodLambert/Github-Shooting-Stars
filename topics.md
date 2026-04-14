@@ -1772,7 +1772,7 @@
 - [mbracher/push2_pong](https://github.com/mbracher/push2_pong) - 
 - [jacobrosenthal/dsp-discoveryf4-rust](https://github.com/jacobrosenthal/dsp-discoveryf4-rust) - https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166
 - [ferrolho/VL53L5CX-BNO08X-viewer](https://github.com/ferrolho/VL53L5CX-BNO08X-viewer) - Turn a Time-of-Flight sensor into a 3D Scanner
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [dmcke5/Hapticpad](https://github.com/dmcke5/Hapticpad) - A 6 button macropad with a display for button labels and a mouse knob with haptic feedback!
