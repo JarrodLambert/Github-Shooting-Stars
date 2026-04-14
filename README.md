@@ -64,7 +64,7 @@
 - [pham-tuan-binh/bopi](https://github.com/pham-tuan-binh/bopi) - Your DIY Backpack Pet
 - [rh1tech/frank-os](https://github.com/rh1tech/frank-os) - FRANK OS - The RP2350 Operating System
 - [ducalex/retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [wagiminator/AVR-Programmer](https://github.com/wagiminator/AVR-Programmer) - Collection of AVR Programmers and Accessories
 - [BlommeJan/Starkpad](https://github.com/BlommeJan/Starkpad) - A Linux-powered touchscreen macro deck and virtual input device. Features a customizable 60-button grid, virtual keyboard, precision touchpad, and web-based configuration UI. Built with LVGL on Arduin
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
