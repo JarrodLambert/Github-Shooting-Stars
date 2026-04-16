@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
 - [rerdavies/pipedal](https://github.com/rerdavies/pipedal) - Guitar Effect Pedal for Raspberry Pi, with a web interface designed specifically for phones.
 - [dmcke5/Hapticpad](https://github.com/dmcke5/Hapticpad) - A 6 button macropad with a display for button labels and a mouse knob with haptic feedback!
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
@@ -448,6 +449,8 @@
 
 ## Others 
 
+- [lanrat/bambu-p1s-hacking](https://github.com/lanrat/bambu-p1s-hacking) - 
+- [opensourcemanufacturing/OpenBL](https://github.com/opensourcemanufacturing/OpenBL) - Exploration of Bambu Lab Printer Hardware and Firmware
 - [isw3d/TouchDesigner-Linux](https://github.com/isw3d/TouchDesigner-Linux) - Run TouchDesigner on Linux with Bottles. Includes full setup, dependencies, and a working fix for missing fonts.
 - [Elias55745/mini-laser-printer](https://github.com/Elias55745/mini-laser-printer) - mini laser printer
 - [iMike78/home-mini-v1-drop-in-pcb](https://github.com/iMike78/home-mini-v1-drop-in-pcb) - Replacement PCB for the Google Home mini v1
@@ -554,6 +557,8 @@
 
 ## Python 
 
+- [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
+- [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) - A collection of Bambu Lab filament RFID tag scans for research
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
 - [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - Open source iPod sync tool - manage your iPod without iTunes
 - [ferrolho/VL53L5CX-BNO08X-viewer](https://github.com/ferrolho/VL53L5CX-BNO08X-viewer) - Turn a Time-of-Flight sensor into a 3D Scanner
