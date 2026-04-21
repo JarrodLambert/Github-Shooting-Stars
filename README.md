@@ -256,6 +256,7 @@
 
 ## HTML 
 
+- [Tech1k/helloesp](https://github.com/Tech1k/helloesp) - A public website hosted on an ESP32.
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [alexandrebobkov/KiCAD-Projects](https://github.com/alexandrebobkov/KiCAD-Projects) - KiCAD PBC projects
 - [flpvsk/kicad-footprints](https://github.com/flpvsk/kicad-footprints) - 
