@@ -459,7 +459,6 @@
 - [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch — a controller-first, native C++ interface designed for performance, simplicity, and long-term portability.
 - [lanrat/bambu-p1s-hacking](https://github.com/lanrat/bambu-p1s-hacking) - 
 - [opensourcemanufacturing/OpenBL](https://github.com/opensourcemanufacturing/OpenBL) - Exploration of Bambu Lab Printer Hardware and Firmware
-- [isw3d/TouchDesigner-Linux](https://github.com/isw3d/TouchDesigner-Linux) - Run TouchDesigner on Linux with Bottles. Includes full setup, dependencies, and a working fix for missing fonts.
 - [Elias55745/mini-laser-printer](https://github.com/Elias55745/mini-laser-printer) - mini laser printer
 - [iMike78/home-mini-v1-drop-in-pcb](https://github.com/iMike78/home-mini-v1-drop-in-pcb) - Replacement PCB for the Google Home mini v1
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
@@ -642,7 +641,7 @@
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -744,6 +743,7 @@
 
 ## Shell 
 
+- [isw3d/TouchDesigner-Linux](https://github.com/isw3d/TouchDesigner-Linux) - Run TouchDesigner on Linux. Automated installer + manual Bottles guide. Includes dependencies, Wine runner, and font fix.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
