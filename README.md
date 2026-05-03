@@ -29,7 +29,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
-- [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -306,6 +305,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [TuriSc/earboard](https://github.com/TuriSc/earboard) - An ear training tool modeled on guitar and bass fretboards
 - [aggregate1166877/noVNC-Paste-Tool](https://github.com/aggregate1166877/noVNC-Paste-Tool) - Tool for pasting text into noVNC consoles.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [chapst1k/RabbitV1](https://github.com/chapst1k/RabbitV1) - Farm Animal Tracking and Breeding Project
@@ -439,10 +439,6 @@
 ## Max 
 
 - [CNMAT/OSC](https://github.com/CNMAT/OSC) - OSC: Arduino and Teensy implementation of OSC encoding
-
-## Nunjucks 
-
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Objective-C 
 
