@@ -1804,6 +1804,7 @@
 
 ## others 
 
+- [pippinbarr/SNAKISMS](https://github.com/pippinbarr/SNAKISMS) - Snake isms
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
 - [Nelectra/Heliotrax-reference-firmware](https://github.com/Nelectra/Heliotrax-reference-firmware) - 
 - [leggomyfroggo/FBC](https://github.com/leggomyfroggo/FBC) - Frog Boy Color assembly information.
