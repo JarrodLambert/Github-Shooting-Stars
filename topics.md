@@ -432,7 +432,7 @@
 - [nyh-workshop/pico-fmSynth](https://github.com/nyh-workshop/pico-fmSynth) - Basic DX9-inspired FM synth Arduino Library for Raspberry Pico RP2040 and RP2350.
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-base
 - [mathertel/Radio](https://github.com/mathertel/Radio) - An Arduino library to control FM radio chips like SI4703, SI4705, RDA5807M, TEA5767.
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
 - [midilab/uClock](https://github.com/midilab/uClock) - A tight BPM clock generator for Arduino and PlatformIO using hardware timer interruption. AVR, Teensy, STM32xx, ESP32 and RP2040 support
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
@@ -985,7 +985,7 @@
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [rbenrax/upyOS](https://github.com/rbenrax/upyOS) - Modular POSIX-like flash OS for microcontrollers based on MicroPython
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-base
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [debsahu/ESP32_FFT_Audio_LEDs](https://github.com/debsahu/ESP32_FFT_Audio_LEDs) - FFT on ESP32 and using MSGEQ7 to process audio signals
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
@@ -1214,7 +1214,6 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
@@ -1315,7 +1314,6 @@
 - [museumsvictoria/nodel](https://github.com/museumsvictoria/nodel) - A digital media control system for museums and galleries
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
