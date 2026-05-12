@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [DarienBrito/EssentiaTD](https://github.com/DarienBrito/EssentiaTD) - TouchDesigner CHOP plugins powered by Essentia for real-time audio analysis
 - [Nelectra/Heliotrax-reference-firmware](https://github.com/Nelectra/Heliotrax-reference-firmware) - 
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
@@ -300,6 +301,8 @@
 
 ## JavaScript 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 - [pippinbarr/SNAKISMS](https://github.com/pippinbarr/SNAKISMS) - Snake isms
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
 - [gracebmanning/image-fragmenter](https://github.com/gracebmanning/image-fragmenter) - 
@@ -310,6 +313,7 @@
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [chapst1k/RabbitV1](https://github.com/chapst1k/RabbitV1) - Farm Animal Tracking and Breeding Project
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -418,7 +422,6 @@
 
 ## MDX 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [processing/p5.js-website](https://github.com/processing/p5.js-website) - New p5.js website!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -452,6 +455,11 @@
 
 ## Others 
 
+- [exsstas/Raymarching-in-TD](https://github.com/exsstas/Raymarching-in-TD) - GLSL raymarching within TouchDesigner
+- [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
+- [CraftKontrol/Terrain-Tools-for-Touchdesigner](https://github.com/CraftKontrol/Terrain-Tools-for-Touchdesigner) - Terrain Tools is a set of externals for touchdesigner designed to help create environments.
+- [theexperiential/Artio](https://github.com/theexperiential/Artio) - Pixel (perfect) maps in TouchDesigner
+- [igalabs/TD-Remote-Tools](https://github.com/igalabs/TD-Remote-Tools) - Tools for working with TouchDesigner on mobile devices
 - [leggomyfroggo/FBC](https://github.com/leggomyfroggo/FBC) - Frog Boy Color assembly information.
 - [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch — a controller-first, native C++ interface designed for performance, simplicity, and long-term portability.
 - [lanrat/bambu-p1s-hacking](https://github.com/lanrat/bambu-p1s-hacking) - 
@@ -560,6 +568,10 @@
 
 ## Python 
 
+- [dylanroscover/Embody](https://github.com/dylanroscover/Embody) - MCP server for TouchDesigner — build, wire, and debug networks with AI. Plus git-diffable externalization.
+- [function-store/FunctionStore_tools](https://github.com/function-store/FunctionStore_tools) - TouchDesigner workflow tools and UX improvements and more
+- [cnbjjj/td-rag](https://github.com/cnbjjj/td-rag) - A local Retrieval-Augmented Generation (RAG) system for answering questions about TouchDesigner using wiki pages, tutorials, and other structured or semi-structured content. Powered by FAISS and local
+- [dotsimulate/TDFam](https://github.com/dotsimulate/TDFam) - TouchDesigner custom operator families — TAB menu integration, manifests, placement, stubs, and updates in one .tox component.
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [christian-byrne/audio-separation-nodes-comfyui](https://github.com/christian-byrne/audio-separation-nodes-comfyui) - Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio
