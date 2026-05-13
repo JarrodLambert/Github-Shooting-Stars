@@ -15,6 +15,7 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -219,6 +220,10 @@
 - [baztian/docker-wine](https://github.com/baztian/docker-wine) - Docker image to start windows executables via wine
 - [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+
+## GLSL 
+
+- [raganmd/BOS-in-TouchDesigner](https://github.com/raganmd/BOS-in-TouchDesigner) - A port of the Book of Shaders to TouchDesigner
 
 ## Go 
 
@@ -455,6 +460,7 @@
 
 ## Others 
 
+- [wuestenarchitekten/RCP-TD](https://github.com/wuestenarchitekten/RCP-TD) - RCP ported to TouchDesigner
 - [exsstas/Raymarching-in-TD](https://github.com/exsstas/Raymarching-in-TD) - GLSL raymarching within TouchDesigner
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [CraftKontrol/Terrain-Tools-for-Touchdesigner](https://github.com/CraftKontrol/Terrain-Tools-for-Touchdesigner) - Terrain Tools is a set of externals for touchdesigner designed to help create environments.
@@ -568,6 +574,8 @@
 
 ## Python 
 
+- [justLV/onju-v2](https://github.com/justLV/onju-v2) - Google Home mini "jailbreak" for conversational AI agents
+- [knulli-cfw/knulli-linux](https://github.com/knulli-cfw/knulli-linux) - Custom Linux based firmware for handheld devices
 - [dylanroscover/Embody](https://github.com/dylanroscover/Embody) - MCP server for TouchDesigner — build, wire, and debug networks with AI. Plus git-diffable externalization.
 - [function-store/FunctionStore_tools](https://github.com/function-store/FunctionStore_tools) - TouchDesigner workflow tools and UX improvements and more
 - [cnbjjj/td-rag](https://github.com/cnbjjj/td-rag) - A local Retrieval-Augmented Generation (RAG) system for answering questions about TouchDesigner using wiki pages, tutorials, and other structured or semi-structured content. Powered by FAISS and local
@@ -620,7 +628,7 @@
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -752,7 +760,7 @@
 
 ## Shell 
 
-- [iswad-lab/TouchDesigner-Linux](https://github.com/iswad-lab/TouchDesigner-Linux) - Run TouchDesigner on Linux. Automated installer + manual Bottles guide. Includes dependencies, Wine runner, and font fix.
+- [iswad-lab/TouchDesigner-Linux](https://github.com/iswad-lab/TouchDesigner-Linux) - Run TouchDesigner on Linux : Automated installer + manual guide
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
