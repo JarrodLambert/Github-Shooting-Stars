@@ -2063,7 +2063,6 @@
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [baztian/docker-wine](https://github.com/baztian/docker-wine) - Docker image to start windows executables via wine
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [Shingyx/BoomSwitch](https://github.com/Shingyx/BoomSwitch) - Switch on/off your UE BOOM Bluetooth speaker from your Android device
 - [eni23/ueboom](https://github.com/eni23/ueboom) - 
