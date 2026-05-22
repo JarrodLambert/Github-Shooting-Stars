@@ -71,7 +71,6 @@
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing) - 
-- [petrows/smarthome-galoped-dekad](https://github.com/petrows/smarthome-galoped-dekad) - Vintage CO2 indicator
 - [TuriSc/amy](https://github.com/TuriSc/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [edgeimpulse/edge-impulse-sdk-zephyr](https://github.com/edgeimpulse/edge-impulse-sdk-zephyr) - Edge Impulse SDK Zephyr module
@@ -145,6 +144,7 @@
 - [rkistner/arcore](https://github.com/rkistner/arcore) - MIDI-USB Support for Arduino
 - [evert-arias/EasyButton](https://github.com/evert-arias/EasyButton) - Arduino library for debouncing momentary contact switches, detect press, release, long press and sequences with event definitions and callbacks.
 - [offa/midi-footswitch](https://github.com/offa/midi-footswitch) - An Aruduino based USB MIDI Controller.
+- [petrows/smarthome-galoped-dekad](https://github.com/petrows/smarthome-galoped-dekad) - Vintage CO2 indicator
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
 - [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
 - [vovagorodok/ArduinoBleOTA](https://github.com/vovagorodok/ArduinoBleOTA) - Upload firmware over Bluetooth
@@ -306,6 +306,7 @@
 
 ## JavaScript 
 
+- [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [patrickhartono/TDYolo](https://github.com/patrickhartono/TDYolo) - A TouchDesigner plugin that integrates YOLOv11 object detection directly into TouchDesigner projects. It brings real-time AI detection (bounding boxes + class labels) to visual programming workflows, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
