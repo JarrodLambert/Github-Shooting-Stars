@@ -2007,7 +2007,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [NVIDIA/NeMo-Retriever](https://github.com/NVIDIA/NeMo-Retriever) - NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextua
 - [pherreyra/ha-mobile-dashboard](https://github.com/pherreyra/ha-mobile-dashboard) - 
-- [kevmo314/scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
+- [lupinemachines/lupine](https://github.com/lupinemachines/lupine) - Lupine is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [domesticatedviking/TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Easily create Piper text-to-speech models in any voice.  Make a text-to-speech model with your own voice recordings, or use thousands of RVC voices. Works offline on a Raspberry pi.   Rapidly record c
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [OpenWonderLabs/SwitchBotAPI-BLE](https://github.com/OpenWonderLabs/SwitchBotAPI-BLE) - SwitchBot BLE open API
