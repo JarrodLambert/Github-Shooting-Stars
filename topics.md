@@ -96,6 +96,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
@@ -711,6 +712,7 @@
 
 ## computer-vision 
 
+- [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [big-nacho/dosage](https://github.com/big-nacho/dosage) - Real time visual saliency detection ✨
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -725,6 +727,7 @@
 
 ## cpp 
 
+- [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [ckormanyos/real-time-cpp](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -1091,6 +1094,10 @@
 
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 
+## gaming 
+
+- [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+
 ## generative-ai 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
@@ -1289,6 +1296,7 @@
 
 ## information-gathering 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
 ## instagram 
@@ -1813,6 +1821,7 @@
 
 ## opengl 
 
+- [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
 ## operating-system 
