@@ -769,7 +769,7 @@
 
 ## Shell 
 
-- [iswad-lab/TouchDesigner-Linux](https://github.com/iswad-lab/TouchDesigner-Linux) - Run TouchDesigner on Linux : Automated installer, fixes & more
+- [iswad-lab/TouchDesigner-Linux](https://github.com/iswad-lab/TouchDesigner-Linux) - Run TouchDesigner on Linux : Automated installer, fixes, icons, & more
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
