@@ -61,6 +61,7 @@
 
 ## C 
 
+- [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and OCRE container technology
 - [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
 - [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.
 - [pham-tuan-binh/bopi](https://github.com/pham-tuan-binh/bopi) - Your DIY Backpack Pet
