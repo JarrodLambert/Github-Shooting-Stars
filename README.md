@@ -61,7 +61,7 @@
 
 ## C 
 
-- [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and OCRE container technology
+- [ArturR0k3r/AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - AkiraOS is a modular, security-focused embedded platform for resource-constrained devices. Built on Zephyr RTOS with WebAssembly (WASM) runtime support and container technology
 - [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
 - [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.
 - [pham-tuan-binh/bopi](https://github.com/pham-tuan-binh/bopi) - Your DIY Backpack Pet
@@ -830,7 +830,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [edgeimpulse/edge-impulse-cli](https://github.com/edgeimpulse/edge-impulse-cli) - Command line interface tools for Edge Impulse
 - [hugeBlack/iloader](https://github.com/hugeBlack/iloader) - User friendly sideloader
