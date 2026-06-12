@@ -448,7 +448,7 @@
 - [Alarm-Siren/arduino-kicad-library](https://github.com/Alarm-Siren/arduino-kicad-library) - KiCad Symbol & Footprint Library for Arduino Modules (Shields, Sockets and Tiles)
 - [GaryZ88/ArduinoGotchi](https://github.com/GaryZ88/ArduinoGotchi) - A real Tamagotchi emulator for Arduino UNO
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [jackw01/arduino-pid-autotuner](https://github.com/jackw01/arduino-pid-autotuner) - Automated PID tuning using Ziegler-Nichols/relay method
 
@@ -1669,7 +1669,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [ivabus/lonelyradio](https://github.com/ivabus/lonelyradio) - Lightweight Music Streamer
 - [whitep4nth3r/fretonator](https://github.com/whitep4nth3r/fretonator) - The ultimate interactive free guitar theory tool.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
