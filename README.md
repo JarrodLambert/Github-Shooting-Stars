@@ -102,11 +102,12 @@
 - [StoneRose35/cortexguitarfx](https://github.com/StoneRose35/cortexguitarfx) - guitar effects processor implemented on various arm cortex platforms
 - [GaryZ88/ArduinoGotchi](https://github.com/GaryZ88/ArduinoGotchi) - A real Tamagotchi emulator for Arduino UNO
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [CarlosDerSeher/snapclient](https://github.com/CarlosDerSeher/snapclient) - Production-ready Snapcast client for ESP32. Reliable, synchronous multiroom audio playback.
 - [garlic-signage/garlic-player](https://github.com/garlic-signage/garlic-player) - Digital Signage Software - Media Player  based on SMIL
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
@@ -125,7 +126,6 @@
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [Oliveriver/5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
