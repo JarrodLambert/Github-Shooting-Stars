@@ -90,7 +90,6 @@
 - [TuriSc/Picophonica](https://github.com/TuriSc/Picophonica) - A Raspberry Pi Pico synth engine for a toy keyboard, with instrument presets and Midi out
 - [TuriSc/Pico-Sequencer-Synth](https://github.com/TuriSc/Pico-Sequencer-Synth) - A polyphonic, multitimbral DDS (Direct Digital Synthesis) library for Raspberry Pi Pico with a sequencer supporting up to 8 channels
 - [rheslip/Raspberry-Pi-Pico-Eurorack-Drum-Sample-Player](https://github.com/rheslip/Raspberry-Pi-Pico-Eurorack-Drum-Sample-Player) - Sample player based on my ESP32 drum machine
-- [TactilityProject/Tactility](https://github.com/TactilityProject/Tactility) - An operating system for ESP32 devices.
 - [Bylin-code/Stradex1](https://github.com/Bylin-code/Stradex1) - 
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
@@ -172,6 +171,7 @@
 - [threedaymonk/footswitch](https://github.com/threedaymonk/footswitch) - A Raspberry Pi Pico MIDI USB footswitch
 - [indifferentengine/JankyTapeEcho](https://github.com/indifferentengine/JankyTapeEcho) - Janky Tape Echo
 - [TuriSc/grimmboy](https://github.com/TuriSc/grimmboy) - Arduino-controlled kids' audio player
+- [TactilityProject/Tactility](https://github.com/TactilityProject/Tactility) - An operating system for ESP32 devices.
 - [polykit/eurorack-sequencer-software](https://github.com/polykit/eurorack-sequencer-software) - Software for an Arduino based 8-step chainable sequencer
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-base
