@@ -1898,6 +1898,7 @@
 
 ## others 
 
+- [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering) - A look at inner workings of Joycon and Nintendo Switch
 - [samcervantes/bumble-berry-pi](https://github.com/samcervantes/bumble-berry-pi) - A cheap & easy to build raspberry pi cyberdeck
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
