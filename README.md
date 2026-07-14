@@ -391,7 +391,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [girafe-ai/ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
@@ -507,7 +507,7 @@
 - [gwangyu-lee/TouchDesigner-X-Computer-Music](https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music) - .tox files for computer musicians
 - [yasuhirohoshino/TouchDesigner_PostEffects](https://github.com/yasuhirohoshino/TouchDesigner_PostEffects) - 
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [L05/TouchDesigner](https://github.com/L05/TouchDesigner) - A collection of TouchDesigner tools and examples.
+- [L05/TouchDesigner](https://github.com/L05/TouchDesigner) - A collection of TouchDesigner tools and examples, including GLSL and Python.
 - [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 - [sooxt98/eBook](https://github.com/sooxt98/eBook) - 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
