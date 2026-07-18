@@ -263,7 +263,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 
 ## HCL 
@@ -315,6 +315,7 @@
 
 ## JavaScript 
 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [patrickhartono/TDYolo](https://github.com/patrickhartono/TDYolo) - A TouchDesigner plugin that integrates YOLOv11 object detection directly into TouchDesigner projects. It brings real-time AI detection (bounding boxes + class labels) to visual programming workflows, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -550,7 +551,6 @@
 - [diessica/awesome-sketch](https://github.com/diessica/awesome-sketch) - :books: delightful stuff for SketchApp students.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) - A curated list of games that can teach you how to learn a programming language.
-- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [enjalot/algovis](https://github.com/enjalot/algovis) - collection of projects and links about algorithm visualization
 - [Taito-Otani/MinilogueControllerM4L](https://github.com/Taito-Otani/MinilogueControllerM4L) - The Max for Live device of korg Minilogue.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -634,7 +634,7 @@
 - [JargeZ/ntscqt](https://github.com/JargeZ/ntscqt) - AKA Line Maker 10.0 | GUI for VHS video simulator
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Incipiens/Adam-Home-Assistant-Snippets](https://github.com/Incipiens/Adam-Home-Assistant-Snippets) - 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our D
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -709,6 +709,7 @@
 - [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - The ultimate open-source streaming platform
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [DrStrangepork/habitica-scripts](https://github.com/DrStrangepork/habitica-scripts) - Miscellaneous scripts for Habitica
 - [radeklat/todoist-habitica-sync](https://github.com/radeklat/todoist-habitica-sync) - One way Todoist to Habitica sync to allow scoring points for completed tasks.
 - [programmerPhysicist/Project_Hype-Berry](https://github.com/programmerPhysicist/Project_Hype-Berry) - Work in progress, but intended to sync Habitica with Todoist. We haven't decided on a good name for the project, so we are going with Project Hype-Berry for the moment.
@@ -771,7 +772,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [ivabus/lonelyradio](https://github.com/ivabus/lonelyradio) - Lightweight Music Streamer
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
