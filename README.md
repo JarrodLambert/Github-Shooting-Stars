@@ -603,7 +603,7 @@
 - [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - Open source iPod sync tool. Use your iPod on any OS without iTunes
 - [ferrolho/VL53L5CX-BNO08X-viewer](https://github.com/ferrolho/VL53L5CX-BNO08X-viewer) - Turn a Time-of-Flight sensor into a 3D Scanner
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
-- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [KoStard/optics_raytracer](https://github.com/KoStard/optics_raytracer) - 3D Optics ray-tracer, allowing image rendering and 3D scene export as OBJ file
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
@@ -634,7 +634,7 @@
 - [JargeZ/ntscqt](https://github.com/JargeZ/ntscqt) - AKA Line Maker 10.0 | GUI for VHS video simulator
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Incipiens/Adam-Home-Assistant-Snippets](https://github.com/Incipiens/Adam-Home-Assistant-Snippets) - 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
