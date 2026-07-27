@@ -415,6 +415,7 @@
 
 ## Kotlin 
 
+- [SchulzCode/Y2Player](https://github.com/SchulzCode/Y2Player) - 
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [moehamade/android-modular-template](https://github.com/moehamade/android-modular-template) - Production-ready Android template with Jetpack Compose, Clean Architecture, multi-module setup, Firebase integration, and CI/CD. One-command rebranding   included.
