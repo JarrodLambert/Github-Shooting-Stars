@@ -1897,6 +1897,7 @@
 
 ## others 
 
+- [SchulzCode/Y2Player](https://github.com/SchulzCode/Y2Player) - 
 - [rkindustriesYT/Anemoia-NES-Emulator-fixes](https://github.com/rkindustriesYT/Anemoia-NES-Emulator-fixes) - 
 - [wellenvogel/BonjourBrowser](https://github.com/wellenvogel/BonjourBrowser) - Android app to browse bonjour (zeroconf, avahi) services for http and launch a browser on found services
 - [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
