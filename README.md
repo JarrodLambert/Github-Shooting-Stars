@@ -81,7 +81,7 @@
 - [edgeimpulse/edge-impulse-sdk-zephyr](https://github.com/edgeimpulse/edge-impulse-sdk-zephyr) - Edge Impulse SDK Zephyr module
 - [haricane8133/graytimer](https://github.com/haricane8133/graytimer) - A custom home made e paper watch!
 - [TuriSc/Pico-Menu-System](https://github.com/TuriSc/Pico-Menu-System) - A C library for creating hierarchical menu systems on displays with Raspberry Pi Pico
-- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [bitbank2/JPEGDEC](https://github.com/bitbank2/JPEGDEC) - An optimized JPEG decoder suitable for microcontrollers and PCs.
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
