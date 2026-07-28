@@ -2001,7 +2001,7 @@
 - [Circle-Circuits/motherboard](https://github.com/Circle-Circuits/motherboard) - An open-sourced PCB to build any kind of Big Muff guitar pedals. 🎸 🎛
 - [Monacrylic/image2KiCAD](https://github.com/Monacrylic/image2KiCAD) - Convert images to KiCAD schematics using AI
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY for microcontrollers
+- [shorepine/amy](https://github.com/shorepine/amy) - AMY - A high-performance fixed-point Music synthesizer librarY
 - [jordaneast1/panasonic_calc_hacked](https://github.com/jordaneast1/panasonic_calc_hacked) - hacked version of the panasonic throw distance calculator that allows for out-of-spec curved screens
 - [bitbank2/JPEGDEC](https://github.com/bitbank2/JPEGDEC) - An optimized JPEG decoder suitable for microcontrollers and PCs.
 - [gracebmanning/image-fragmenter](https://github.com/gracebmanning/image-fragmenter) - 
