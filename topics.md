@@ -1030,7 +1030,7 @@
 
 ## esp32 
 
-- [engmung/Patternflow](https://github.com/engmung/Patternflow) - An open-source LED synthesizer. Play light patterns with your fingertips. A modern reinterpretation of Nam June Paik's Participation TV (1963).
+- [engmung/Patternflow](https://github.com/engmung/Patternflow) - An open-source LED synthesizer. Play light patterns with your fingertips — and every Patternflow plays every pattern we make.
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [Tech1k/helloesp](https://github.com/Tech1k/helloesp) - A public website hosted on an ESP32.
 - [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
@@ -1932,7 +1932,7 @@
 - [ticohq/tico](https://github.com/ticohq/tico) - The first custom emulation frontend for Nintendo Switch. A controller-first interface built for performance and simplicity.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [christian-byrne/audio-separation-nodes-comfyui](https://github.com/christian-byrne/audio-separation-nodes-comfyui) - Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [lanrat/bambu-p1s-hacking](https://github.com/lanrat/bambu-p1s-hacking) - 
 - [opensourcemanufacturing/OpenBL](https://github.com/opensourcemanufacturing/OpenBL) - Exploration of Bambu Lab Printer Hardware and Firmware
