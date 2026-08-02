@@ -790,6 +790,7 @@
 
 ## Shell 
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [SildurFX/Switchdeck](https://github.com/SildurFX/Switchdeck) - Steam ARM64 for the Nintendo Switch 1 (L4T)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
