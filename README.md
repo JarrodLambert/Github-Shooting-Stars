@@ -61,6 +61,7 @@
 
 ## C 
 
+- [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
 - [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering) - A look at inner workings of Joycon and Nintendo Switch
 - [Rompass/openc6-bios](https://github.com/Rompass/openc6-bios) - An open-source RISC-V firmware platform for ESP32-C6(8MB Flash). Implements a BIOS/Payload architecture with a custom system call interface (ABI), independent LP-Core coprocessor management, and an an
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
@@ -586,6 +587,7 @@
 
 ## Python 
 
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [SquidSec/CyberDeck](https://github.com/SquidSec/CyberDeck) - Hackers Cookbook - Tons of hacker cli recipes ready to search and use when you need them
 - [computed-axial-lithography/OpenCAL-Firmware](https://github.com/computed-axial-lithography/OpenCAL-Firmware) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
