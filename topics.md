@@ -1509,6 +1509,7 @@
 
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [SildurFX/Switchdeck](https://github.com/SildurFX/Switchdeck) - Steam ARM64 for the Nintendo Switch 1 (L4T)
+- [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - iOpenPod is a free, cross-platform iPod Sync Tool and Media Library manager as an iTunes alternative for Linux, macOS, and Windows enabling FLAC to ALAC auto-conversion, iTunesDB metadata editing, and
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -1851,6 +1852,7 @@
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) - DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC). $0 VC.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - iOpenPod is a free, cross-platform iPod Sync Tool and Media Library manager as an iTunes alternative for Linux, macOS, and Windows enabling FLAC to ALAC auto-conversion, iTunesDB metadata editing, and
 - [KartikLabhshetwar/oneurl](https://github.com/KartikLabhshetwar/oneurl) - One URL for all your links, An open-source alternative to Linktree. Create a beautiful profile page to share all your important links in one place.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -1916,6 +1918,7 @@
 
 ## others 
 
+- [anthonycaccese/240-MP](https://github.com/anthonycaccese/240-MP) - 240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)
 - [dossantosyann/TB2026-YDS-Circuit](https://github.com/dossantosyann/TB2026-YDS-Circuit) - Schematics, layout and BOM of the circuit of my 2026 Bachelor's project
 - [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
 - [SchulzCode/Y2Player](https://github.com/SchulzCode/Y2Player) - 
@@ -2342,7 +2345,7 @@
 - [dylanroscover/Embody](https://github.com/dylanroscover/Embody) - MCP server for TouchDesigner — build, wire, and debug networks with AI. Plus git-diffable externalization.
 - [function-store/FunctionStore_tools](https://github.com/function-store/FunctionStore_tools) - TouchDesigner workflow tools and UX improvements and more
 - [cnbjjj/td-rag](https://github.com/cnbjjj/td-rag) - A local Retrieval-Augmented Generation (RAG) system for answering questions about TouchDesigner using wiki pages, tutorials, and other structured or semi-structured content. Powered by FAISS and local
-- [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - Open source iPod sync tool. Use your iPod on any OS without iTunes
+- [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - iOpenPod is a free, cross-platform iPod Sync Tool and Media Library manager as an iTunes alternative for Linux, macOS, and Windows enabling FLAC to ALAC auto-conversion, iTunesDB metadata editing, and
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
