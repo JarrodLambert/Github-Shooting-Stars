@@ -303,6 +303,7 @@
 
 ## ai 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) - DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC). $0 VC.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  vibe coding 101｜The first course for AI-native product builders.
@@ -663,6 +664,7 @@
 
 ## claude 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -683,6 +685,7 @@
 
 ## cli 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -1376,7 +1379,7 @@
 ## ios 
 
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
-- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application.
+- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
@@ -1543,6 +1546,7 @@
 
 ## llm 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [cnbjjj/td-rag](https://github.com/cnbjjj/td-rag) - A local Retrieval-Augmented Generation (RAG) system for answering questions about TouchDesigner using wiki pages, tutorials, and other structured or semi-structured content. Powered by FAISS and local
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1685,6 +1689,7 @@
 
 ## mcp 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [mcp360/mTarsier](https://github.com/mcp360/mTarsier) - mTarsier - The Open Source MCP & Skill Manager for Claude, Cursor, VS Code & any AI client.
 - [dylanroscover/Embody](https://github.com/dylanroscover/Embody) - MCP server for TouchDesigner — build, wire, and debug networks with AI. Plus git-diffable externalization.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1877,6 +1882,7 @@
 
 ## openai 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  vibe coding 101｜The first course for AI-native product builders.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
@@ -1918,6 +1924,7 @@
 
 ## others 
 
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [anthonycaccese/240-MP](https://github.com/anthonycaccese/240-MP) - 240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)
 - [dossantosyann/TB2026-YDS-Circuit](https://github.com/dossantosyann/TB2026-YDS-Circuit) - Schematics, layout and BOM of the circuit of my 2026 Bachelor's project
 - [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
@@ -2555,6 +2562,7 @@
 
 ## rust 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [orhun/tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit 🎛️🎸
@@ -2769,6 +2777,7 @@
 
 ## terminal 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -2794,6 +2803,7 @@
 
 ## tui 
 
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -2892,7 +2902,6 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 
 ## vuejs 
 
