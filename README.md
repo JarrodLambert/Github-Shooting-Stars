@@ -393,6 +393,7 @@
 
 ## Jupyter Notebook 
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [Monacrylic/image2KiCAD](https://github.com/Monacrylic/image2KiCAD) - Convert images to KiCAD schematics using AI
 - [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
@@ -599,6 +600,7 @@
 
 ## Python 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
@@ -606,7 +608,7 @@
 - [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [SquidSec/CyberDeck](https://github.com/SquidSec/CyberDeck) - Hackers Cookbook - Tons of hacker cli recipes ready to search and use when you need them
 - [computed-axial-lithography/OpenCAL-Firmware](https://github.com/computed-axial-lithography/OpenCAL-Firmware) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
-- [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) - DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC). $0 VC.
+- [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) - Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy
 - [justLV/onju-v2](https://github.com/justLV/onju-v2) - Google Home mini "jailbreak" for conversational AI agents
 - [dylanroscover/Embody](https://github.com/dylanroscover/Embody) - MCP server for TouchDesigner — build, wire, and debug networks with AI. Plus git-diffable externalization.
 - [function-store/FunctionStore_tools](https://github.com/function-store/FunctionStore_tools) - TouchDesigner workflow tools and UX improvements and more
