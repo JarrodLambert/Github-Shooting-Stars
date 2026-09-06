@@ -485,6 +485,7 @@
 
 ## artificial-intelligence 
 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [MaximeVandegar/Papers-in-100-Lines-of-Code](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) - Implementation of papers in 100 lines of code.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -1048,6 +1049,7 @@
 - [Rompass/openc6-bios](https://github.com/Rompass/openc6-bios) - An open-source RISC-V firmware platform for ESP32-C6(8MB Flash). Implements a BIOS/Payload architecture with a custom system call interface (ABI), independent LP-Core coprocessor management, and an an
 - [ardera/flutter-pi](https://github.com/ardera/flutter-pi) - A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.
 - [BlommeJan/Starkpad](https://github.com/BlommeJan/Starkpad) - A Linux-powered touchscreen macro deck and virtual input device. Features a customizable 60-button grid, virtual keyboard, precision touchpad, and web-based configuration UI. Built with LVGL on Arduin
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [ckormanyos/real-time-cpp](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -1358,7 +1360,7 @@
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
-- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -1424,6 +1426,7 @@
 
 ## iot 
 
+- [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast Messaging  Bus/MQTT Broker for Edge & SDV
 - [TheFargo/blossom-led](https://github.com/TheFargo/blossom-led) - Wi-Fi enabled programmable LED lighting display
 - [Tech1k/helloesp](https://github.com/Tech1k/helloesp) - A public website hosted on an ESP32.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -1620,7 +1623,7 @@
 
 ## localization 
 
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
 
 ## low-code 
 
@@ -1901,6 +1904,7 @@
 
 ## open-source 
 
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1973,6 +1977,11 @@
 
 ## others 
 
+- [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
+- [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli
+- [Olsro/reddit-ipod-guides](https://github.com/Olsro/reddit-ipod-guides) - All my iPod/Music player guides posted on Reddit, archived here in an open format: the markdown.
 - [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) - Port of Professor Layton: Curious Village HD for Switch.
 - [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) - Port of Professor Layton: Pandora's Box HD for Switch.
 - [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck) - Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative aud
@@ -2787,6 +2796,7 @@
 
 ## swift 
 
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
