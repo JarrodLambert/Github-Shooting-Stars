@@ -391,6 +391,7 @@
 
 ## algorithm 
 
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
@@ -1992,7 +1993,7 @@
 - [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/pe
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [anthonycaccese/240-MP](https://github.com/anthonycaccese/240-MP) - 240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)
-- [dossantosyann/TB2026-YDS-Circuit](https://github.com/dossantosyann/TB2026-YDS-Circuit) - Schematics, layout and BOM of the circuit of my 2026 Bachelor's project
+- [yanndossantos/TB2026-YDS-Circuit](https://github.com/yanndossantos/TB2026-YDS-Circuit) - Schematics, layout and BOM of the circuit of my 2026 Bachelor's project
 - [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
 - [SchulzCode/Y2Player](https://github.com/SchulzCode/Y2Player) - 
 - [rkindustriesYT/Anemoia-NES-Emulator-fixes](https://github.com/rkindustriesYT/Anemoia-NES-Emulator-fixes) - 
@@ -2965,6 +2966,7 @@
 
 ## visualization 
 
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [orhun/tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit 🎛️🎸
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
