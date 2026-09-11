@@ -290,7 +290,7 @@
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [mcp360/mTarsier](https://github.com/mcp360/mTarsier) - mTarsier - The Open Source MCP & Skill Manager for Claude, Cursor, VS Code & any AI client.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## agents 
 
@@ -345,7 +345,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1013,7 +1013,7 @@
 
 ## dsh-plugin 
 
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## education 
 
@@ -1332,7 +1332,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -1471,7 +1471,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
@@ -1978,11 +1978,13 @@
 
 ## others 
 
+- [robzilla10001/SwitchPorts](https://github.com/robzilla10001/SwitchPorts) - List of Software Ported to Nintendo Switch
+- [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) - 
 - [SoCo/SoCo](https://github.com/SoCo/SoCo) - SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers.
 - [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server for the hardware you already have. It profiles your machine, recommends the right models for it, then downloads, tunes, and runs them. Plug it into Pi, OpenCode, Hermes, O
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source local inference engine. It runs models on the hardware you already have, whether that's a Mac, an NVIDIA or AMD GPU, or just a CPU. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Clau
 - [Olsro/reddit-ipod-guides](https://github.com/Olsro/reddit-ipod-guides) - All my iPod/Music player guides posted on Reddit, archived here in an open format: the markdown.
 - [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) - Port of Professor Layton: Curious Village HD for Switch.
 - [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) - Port of Professor Layton: Pandora's Box HD for Switch.
@@ -2563,7 +2565,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
@@ -2709,7 +2711,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
@@ -2911,7 +2913,7 @@
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [William-McGonagle/bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
