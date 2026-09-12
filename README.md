@@ -333,6 +333,7 @@
 - [pshenok/datacenter-survival](https://github.com/pshenok/datacenter-survival) - Build and run a datacenter: power chains, heat, cooling, PUE. Sister game of Server Survival — the physical layer of the cloud.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [dvhx/stripboard2schematic](https://github.com/dvhx/stripboard2schematic) - Tool to convert stripboard layouts back to schematics, either for checks or if schematic was lost
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [patrickhartono/TDYolo](https://github.com/patrickhartono/TDYolo) - A TouchDesigner plugin that integrates YOLOv11 object detection directly into TouchDesigner projects. It brings real-time AI detection (bounding boxes + class labels) to visual programming workflows, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -464,7 +465,6 @@
 
 ## Makefile 
 
-- [o7-machinehum/Blackpants](https://github.com/o7-machinehum/Blackpants) - 
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [ruanbekker/awesome-docker-compose](https://github.com/ruanbekker/awesome-docker-compose) - My Collection of Docker Compose Files. Use "make up" to test it.
@@ -612,12 +612,11 @@
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed 
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-- [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
+- [apple-aiml-research/ml-diffucoder](https://github.com/apple-aiml-research/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/pe
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [SquidSec/CyberDeck](https://github.com/SquidSec/CyberDeck) - Hackers Cookbook - Tons of hacker cli recipes ready to search and use when you need them
 - [computed-axial-lithography/OpenCAL-Firmware](https://github.com/computed-axial-lithography/OpenCAL-Firmware) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
@@ -638,6 +637,7 @@
 - [ferrolho/VL53L5CX-BNO08X-viewer](https://github.com/ferrolho/VL53L5CX-BNO08X-viewer) - Turn a Time-of-Flight sensor into a 3D Scanner
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
+- [o7-machinehum/Blackpants](https://github.com/o7-machinehum/Blackpants) - 
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [KoStard/optics_raytracer](https://github.com/KoStard/optics_raytracer) - 3D Optics ray-tracer, allowing image rendering and 3D scene export as OBJ file
 - [DBraun/TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
@@ -647,7 +647,7 @@
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
-- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
+- [apple-aiml-research/ml-sharp](https://github.com/apple-aiml-research/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
@@ -783,7 +783,7 @@
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [MaxBittker/orb.farm](https://github.com/MaxBittker/orb.farm) - sealed aquatic ecosystem
