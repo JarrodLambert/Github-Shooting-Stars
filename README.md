@@ -147,7 +147,7 @@
 - [MukeshSankhla/Bloom-Buddy](https://github.com/MukeshSankhla/Bloom-Buddy) - 
 - [TheFargo/blossom-led](https://github.com/TheFargo/blossom-led) - Wi-Fi enabled programmable LED lighting display
 - [rkindustriesYT/Anemoia-NES-Emulator-fixes](https://github.com/rkindustriesYT/Anemoia-NES-Emulator-fixes) - 
-- [xlanor/akira](https://github.com/xlanor/akira) - Akira is a hombrew GUI that uses chiaki-ng for the Nintendo Switch.
+- [xlanor/akira](https://github.com/xlanor/akira) - Akira is a hombrew GUI that uses chiaki-ng for the Nintendo Switch for PS Remote Play.
 - [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) - Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 - [TMRh20/TMRpcm](https://github.com/TMRh20/TMRpcm) - Arduino library for asynchronous playback of PCM/WAV files direct from SD card. Arduino Uno,Nano,Mega etc supported
 - [DarienBrito/EssentiaTD](https://github.com/DarienBrito/EssentiaTD) - TouchDesigner CHOP plugins powered by Essentia for real-time audio analysis
@@ -256,7 +256,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
