@@ -43,6 +43,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -314,6 +315,7 @@
 
 ## Java 
 
+- [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world's greatest card game.
 - [wellenvogel/BonjourBrowser](https://github.com/wellenvogel/BonjourBrowser) - Android app to browse bonjour (zeroconf, avahi) services for http and launch a browser on found services
 - [Illutron/AndroidExamples](https://github.com/Illutron/AndroidExamples) - Small sketches with some general helpers for android + arduino development. (Mobile Inside Out Workshop)
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
@@ -490,6 +492,7 @@
 
 ## Others 
 
+- [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [robzilla10001/SwitchPorts](https://github.com/robzilla10001/SwitchPorts) - List of Software Ported to Nintendo Switch
 - [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX) - 
 - [Olsro/reddit-ipod-guides](https://github.com/Olsro/reddit-ipod-guides) - All my iPod/Music player guides posted on Reddit, archived here in an open format: the markdown.
@@ -776,6 +779,7 @@
 
 ## Rust 
 
+- [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Free, open-source disk usage analyzer for macOS, Windows and Linux. See what fills your disk, servers (SSH) and cloud storage in an animated sunburst or treemap, and clean it up safely. A DaisyDisk, W
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
@@ -818,7 +822,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [ivabus/lonelyradio](https://github.com/ivabus/lonelyradio) - Lightweight Music Streamer
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
@@ -854,10 +858,10 @@
 
 ## Swift 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [claration/feather](https://github.com/claration/feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto) - Soduto is a KDE Connect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
@@ -875,6 +879,10 @@
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+## TeX 
+
+- [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 
 ## TypeScript 
 
@@ -913,7 +921,7 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
