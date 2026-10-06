@@ -1395,7 +1395,7 @@
 
 ## homebrew 
 
-- [xlanor/akira](https://github.com/xlanor/akira) - Akira is a hombrew GUI that uses chiaki-ng for the Nintendo Switch for PS Remote Play.
+- [chiaki-ng/akira](https://github.com/chiaki-ng/akira) - Akira is a hombrew GUI that uses chiaki-ng for the Nintendo Switch for PS Remote Play.
 - [yep/app-downloader](https://github.com/yep/app-downloader) - Easily search for macOS apps from the `homebrew cask` app catalog.
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
@@ -2196,6 +2196,7 @@
 - [L05/TouchDesigner](https://github.com/L05/TouchDesigner) - A collection of TouchDesigner tools and examples, including GLSL and Python.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) - 
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [VirtualDrivers/Virtual-Audio-Driver](https://github.com/VirtualDrivers/Virtual-Audio-Driver) - Add a virtual speaker and mic to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
 - [sooxt98/eBook](https://github.com/sooxt98/eBook) - 
