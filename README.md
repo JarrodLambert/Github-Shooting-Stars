@@ -150,7 +150,7 @@
 - [MukeshSankhla/Bloom-Buddy](https://github.com/MukeshSankhla/Bloom-Buddy) - 
 - [TheFargo/blossom-led](https://github.com/TheFargo/blossom-led) - Wi-Fi enabled programmable LED lighting display
 - [rkindustriesYT/Anemoia-NES-Emulator-fixes](https://github.com/rkindustriesYT/Anemoia-NES-Emulator-fixes) - 
-- [xlanor/akira](https://github.com/xlanor/akira) - Akira is a hombrew GUI that uses chiaki-ng for the Nintendo Switch for PS Remote Play.
+- [chiaki-ng/akira](https://github.com/chiaki-ng/akira) - Akira is a hombrew GUI that uses chiaki-ng for the Nintendo Switch for PS Remote Play.
 - [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp) - Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
 - [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) - Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 - [TMRh20/TMRpcm](https://github.com/TMRh20/TMRpcm) - Arduino library for asynchronous playback of PCM/WAV files direct from SD card. Arduino Uno,Nano,Mega etc supported
@@ -339,6 +339,7 @@
 - [pshenok/datacenter-survival](https://github.com/pshenok/datacenter-survival) - Build and run a datacenter: power chains, heat, cooling, PUE. Sister game of Server Survival — the physical layer of the cloud.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [dvhx/stripboard2schematic](https://github.com/dvhx/stripboard2schematic) - Tool to convert stripboard layouts back to schematics, either for checks or if schematic was lost
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [patrickhartono/TDYolo](https://github.com/patrickhartono/TDYolo) - A TouchDesigner plugin that integrates YOLOv11 object detection directly into TouchDesigner projects. It brings real-time AI detection (bounding boxes + class labels) to visual programming workflows, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -618,7 +619,6 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [SquidSec/CyberDeck](https://github.com/SquidSec/CyberDeck) - Hackers Cookbook - Tons of hacker cli recipes ready to search and use when you need them
 - [computed-axial-lithography/OpenCAL-Firmware](https://github.com/computed-axial-lithography/OpenCAL-Firmware) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
@@ -631,6 +631,7 @@
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [christian-byrne/audio-separation-nodes-comfyui](https://github.com/christian-byrne/audio-separation-nodes-comfyui) - Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [X1Plus/X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 - [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) - A collection of Bambu Lab filament RFID tag scans for research
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
@@ -858,10 +859,11 @@
 
 ## Swift 
 
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [claration/feather](https://github.com/claration/feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [sannidhyaroy/Soduto](https://github.com/sannidhyaroy/Soduto) - Soduto is a KDE Connect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
@@ -896,7 +898,6 @@
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [vocalous/app](https://github.com/vocalous/app) - A web app to track singing pitch.
