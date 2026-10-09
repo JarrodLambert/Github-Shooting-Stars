@@ -62,6 +62,7 @@
 
 ## C 
 
+- [lualiliu/esp32-gameboy](https://github.com/lualiliu/esp32-gameboy) - ESP32 Gameboy emulation based on Arduino
 - [autorunhq/autorun](https://github.com/autorunhq/autorun) - Play Windows PC games on your Nintendo Switch.
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast Messaging  Bus/MQTT Broker for Edge & SDV
