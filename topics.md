@@ -681,7 +681,6 @@
 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -2014,6 +2013,7 @@
 
 ## others 
 
+- [lualiliu/esp32-gameboy](https://github.com/lualiliu/esp32-gameboy) - ESP32 Gameboy emulation based on Arduino
 - [R-drg/switch-hero](https://github.com/R-drg/switch-hero) - 
 - [autorunhq/autorun](https://github.com/autorunhq/autorun) - Play Windows PC games on your Nintendo Switch.
 - [CubeCoders/Jet](https://github.com/CubeCoders/Jet) - A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (ESP32, etc)
