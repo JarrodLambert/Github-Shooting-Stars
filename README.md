@@ -62,6 +62,7 @@
 
 ## C 
 
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [lualiliu/esp32-gameboy](https://github.com/lualiliu/esp32-gameboy) - ESP32 Gameboy emulation based on Arduino
 - [autorunhq/autorun](https://github.com/autorunhq/autorun) - Play Windows PC games on your Nintendo Switch.
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
@@ -146,6 +147,7 @@
 
 ## C++ 
 
+- [HenryAgentTeam/diy-ar-glasses](https://github.com/HenryAgentTeam/diy-ar-glasses) - A low-cost clip-on text HUD: printable hardware, XIAO firmware, local AI platform, and interactive optical explanation.
 - [R-drg/switch-hero](https://github.com/R-drg/switch-hero) - 
 - [CubeCoders/Jet](https://github.com/CubeCoders/Jet) - A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (ESP32, etc)
 - [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) - Port of Professor Layton: Curious Village HD for Switch.
@@ -342,7 +344,6 @@
 - [pshenok/datacenter-survival](https://github.com/pshenok/datacenter-survival) - Build and run a datacenter: power chains, heat, cooling, PUE. Sister game of Server Survival — the physical layer of the cloud.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [dvhx/stripboard2schematic](https://github.com/dvhx/stripboard2schematic) - Tool to convert stripboard layouts back to schematics, either for checks or if schematic was lost
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [patrickhartono/TDYolo](https://github.com/patrickhartono/TDYolo) - A TouchDesigner plugin that integrates YOLOv11 object detection directly into TouchDesigner projects. It brings real-time AI detection (bounding boxes + class labels) to visual programming workflows, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -624,6 +625,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [SquidSec/CyberDeck](https://github.com/SquidSec/CyberDeck) - Hackers Cookbook - Tons of hacker cli recipes ready to search and use when you need them
 - [computed-axial-lithography/OpenCAL-Firmware](https://github.com/computed-axial-lithography/OpenCAL-Firmware) - Opensource CAL 3D printer with configuration flexibility based on commercially available optical components and 3D printed components. Intended for research purposes.
@@ -730,7 +732,6 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
@@ -763,6 +764,7 @@
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [Al-Azif/ps4-exploit-host](https://github.com/Al-Azif/ps4-exploit-host) - Easy Exploit Hosting
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
@@ -843,7 +845,7 @@
 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [SildurFX/Switchdeck](https://github.com/SildurFX/Switchdeck) - Steam ARM64 for the Nintendo Switch 1 (L4T)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [gihad/streamer](https://github.com/gihad/streamer) - Converting Streams into HLS for playback on Chromecast devices using FFMPEG + NGINX
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -894,7 +896,7 @@
 ## TypeScript 
 
 - [Patternflow-lab/Patternflow](https://github.com/Patternflow-lab/Patternflow) - An open-source LED synthesizer. Play light patterns with your fingertips — and every Patternflow plays every pattern we make.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
@@ -985,7 +987,6 @@
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [jordanbaird/darkreader](https://github.com/jordanbaird/darkreader) - Dark Reader Chrome and Firefox extension
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [oae/kaizoku](https://github.com/oae/kaizoku) - Self-hosted manga downloader
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 
