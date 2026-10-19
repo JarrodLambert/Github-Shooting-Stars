@@ -348,7 +348,7 @@
 - [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [patrickhartono/TDYolo](https://github.com/patrickhartono/TDYolo) - A TouchDesigner plugin that integrates YOLOv11 object detection directly into TouchDesigner projects. It brings real-time AI detection (bounding boxes + class labels) to visual programming workflows, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  vibe coding 101｜The first course for AI-native product builders.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  Vibe Coding 101｜Your First Course For AI Product Builders.
 - [pippinbarr/SNAKISMS](https://github.com/pippinbarr/SNAKISMS) - Snake isms
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
 - [gracebmanning/image-fragmenter](https://github.com/gracebmanning/image-fragmenter) - 
@@ -362,6 +362,7 @@
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [alexadam/glitch-studio](https://github.com/alexadam/glitch-studio) - data bending & glitch tools
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
 - [L05/p5.touchgui](https://github.com/L05/p5.touchgui) - A multi-touch and mouse GUI Library for p5.js
@@ -485,7 +486,6 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Max 
@@ -647,7 +647,7 @@
 - [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) - A collection of Bambu Lab filament RFID tag scans for research
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
 - [ismail-bahloul/TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux) - Run TouchDesigner on Linux : Automated installer, fixes, icons, & more
-- [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - iOpenPod is a free, cross-platform iPod Sync Tool and Media Library manager as an iTunes alternative for Linux, macOS, and Windows enabling FLAC to ALAC auto-conversion, iTunesDB metadata editing, and
+- [TheRealSavi/iOpenPod](https://github.com/TheRealSavi/iOpenPod) - Free, open-source iPod manager and iTunes alternative for Windows, macOS, and Linux. Sync music, edit playlists and metadata, and review changes before Sync.
 - [ferrolho/VL53L5CX-BNO08X-viewer](https://github.com/ferrolho/VL53L5CX-BNO08X-viewer) - Turn a Time-of-Flight sensor into a 3D Scanner
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
