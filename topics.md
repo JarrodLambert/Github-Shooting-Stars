@@ -75,6 +75,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1037,6 +1038,14 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
+## downloader 
+
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
+- [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
 ## dsh-plugin 
 
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -1331,6 +1340,7 @@
 ## hacktoberfest 
 
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [leggomyfroggo/TBC](https://github.com/leggomyfroggo/TBC) - Tad Boy Color project information
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
@@ -2023,7 +2033,7 @@
 
 ## others 
 
-- [i3sey/pipensx](https://github.com/i3sey/pipensx) - Torrent catalog viewer + downloader
+- [jameynakama/whatnow](https://github.com/jameynakama/whatnow) - Executive function for the rest of us
 - [HenryAgentTeam/diy-ar-glasses](https://github.com/HenryAgentTeam/diy-ar-glasses) - A low-cost clip-on text HUD: printable hardware, XIAO firmware, local AI platform, and interactive optical explanation.
 - [Patternflow-lab/Patternflow](https://github.com/Patternflow-lab/Patternflow) - An open-source LED synthesizer. Play light patterns with your fingertips — and every Patternflow plays every pattern we make.
 - [AriaCast/AriaCast-app](https://github.com/AriaCast/AriaCast-app) - AriaCast is an Android application that let's you stream any audio playing on your device to any networked receiver
