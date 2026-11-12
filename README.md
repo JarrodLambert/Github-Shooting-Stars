@@ -196,7 +196,7 @@
 - [TuriSc/grimmboy](https://github.com/TuriSc/grimmboy) - Arduino-controlled kids' audio player
 - [TactilityProject/Tactility](https://github.com/TactilityProject/Tactility) - An operating system for ESP32 devices.
 - [polykit/eurorack-sequencer-software](https://github.com/polykit/eurorack-sequencer-software) - Software for an Arduino based 8-step chainable sequencer
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast) - ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-base
 - [mathertel/Radio](https://github.com/mathertel/Radio) - An Arduino library to control FM radio chips like SI4703, SI4705, RDA5807M, TEA5767.
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
@@ -736,7 +736,7 @@
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Notion API client SDK, rewritten in Python! (sync + async)
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
