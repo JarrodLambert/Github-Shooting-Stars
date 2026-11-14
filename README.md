@@ -368,7 +368,6 @@
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [alexadam/glitch-studio](https://github.com/alexadam/glitch-studio) - data bending & glitch tools
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
 - [L05/p5.touchgui](https://github.com/L05/p5.touchgui) - A multi-touch and mouse GUI Library for p5.js
@@ -493,6 +492,7 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Max 
@@ -798,6 +798,7 @@
 
 ## Rust 
 
+- [function-store/TDXCardio](https://github.com/function-store/TDXCardio) - Heartbeat watchdog for TouchDesigner projects: restarts a show on crash, freeze or poor health
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [emilsvennesson/vibecast](https://github.com/emilsvennesson/vibecast) - A native Google Cast receiver written in Rust. Turn any player into a Chromecast.
@@ -816,6 +817,7 @@
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [MaxBittker/orb.farm](https://github.com/MaxBittker/orb.farm) - sealed aquatic ecosystem
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [mbracher/push2_display](https://github.com/mbracher/push2_display) - Ableton Push2 Embedded-graphics display driver
 - [mbracher/push2_pong](https://github.com/mbracher/push2_pong) - 
