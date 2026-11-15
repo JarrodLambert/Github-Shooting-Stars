@@ -351,7 +351,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
@@ -740,6 +740,7 @@
 
 ## claude-code 
 
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
@@ -1478,6 +1479,7 @@
 
 ## ios 
 
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
 - [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
@@ -1682,7 +1684,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
@@ -1721,7 +1723,7 @@
 
 ## mac 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1820,6 +1822,7 @@
 ## mcp 
 
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
@@ -1851,6 +1854,7 @@
 
 ## mcp-server 
 
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
 - [dylanroscover/Embody](https://github.com/dylanroscover/Embody) - The most comprehensive MCP toolkit for TouchDesigner
@@ -2766,7 +2770,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources (Github fork)
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -2824,7 +2828,7 @@
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -3181,7 +3185,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
