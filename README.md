@@ -64,6 +64,7 @@
 
 ## C 
 
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [hugeBlack/fairplay-decrypt](https://github.com/hugeBlack/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation
 - [lualiliu/esp32-gameboy](https://github.com/lualiliu/esp32-gameboy) - ESP32 Gameboy emulation based on Arduino
 - [autorunhq/autorun](https://github.com/autorunhq/autorun) - Play Windows PC games on your Nintendo Switch.
